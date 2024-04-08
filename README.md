@@ -13,5 +13,6 @@ Equipo de trabajo: TecnomecatroniX
 - Felipe Zuleta
 
 
-### [DIAGRAMA DE GANTT:](https://sharing.clickup.com/9013028738/g/h/8ckftw2-653/38d6f748b8ea3fe)
+### DIAGRAMA DE GANTT:
+[Enlace al diagrama de Gantt en el CRM Clickup](https://sharing.clickup.com/9013028738/g/h/8ckftw2-653/38d6f748b8ea3fe)
 
