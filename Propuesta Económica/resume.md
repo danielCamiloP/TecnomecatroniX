@@ -1,6 +1,6 @@
 # Productos de Baldosas Cerámicas
 
-## Producto 1: Baldosa Cerámica Corona Pisos Andina Gris 30x60 cm
+## Producto 1: Baldosa Cerámica Corona Pisos Andina Gris 
 
 **Descripción:** Esta baldosa de cerámica de la marca Corona se caracteriza por su color gris claro y su acabado mate, lo que la convierte en una opción versátil para pisos y paredes de interiores. Su formato de 30x60 cm la hace ideal para espacios de tamaño moderado.
 
@@ -16,7 +16,8 @@
 - **Precio:** El precio de esta baldosa es competitivo en comparación con otros productos del mercado, lo que la hace accesible para un gran número de consumidores, tal como lo menciona Mordor Intelligence en su análisis del mercado global de baldosas cerámicas.
 - **Marca:** Corona es una marca reconocida y confiable en el mercado colombiano de materiales de construcción, lo que genera confianza en los consumidores, como lo confirma Valuemarketresearch.com en su informe sobre el mercado de baldosas cerámicas.
 
-## Producto 2: Baldosa Cerámica Imola Imola Grey 60x60 cm
+## Producto 2: Baldosa Cerámica Imola Imola Grey 
+
 
 **Descripción:** Esta baldosa de cerámica de la marca Imola destaca por su elegante tono gris oscuro y su acabado brillante. Su formato de 60x60 cm aporta amplitud a los espacios.
 
@@ -32,7 +33,7 @@
 - **Precio:** El precio de esta baldosa es competitivo dentro del segmento de alta gama, lo que la hace atractiva para un público que busca un producto diferenciado.
 - **Diseño:** La baldosa Imola Imola Grey presenta un diseño moderno y elegante que la hace ideal para espacios contemporáneos, tal como lo destaca Informadores de Expertos en su análisis del mercado latinoamericano de baldosas cerámicas.
 
-## Producto 3: Baldosa Cerámica Porcelanosa Dover Grey 90x90 cm
+## Producto 3: Baldosa Cerámica Porcelanosa Dover Grey 
 
 **Descripción:** Esta baldosa de cerámica de la marca Porcelanosa se distingue por su sofisticado color gris marengo y su acabado en cemento pulido. Su gran formato de 90x90 cm crea un efecto imponente en espacios amplios.
 
