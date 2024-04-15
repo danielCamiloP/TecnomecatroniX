@@ -1,7 +1,5 @@
 # Estimado de la inversión inicial por sistema
 
-# Costos de Implementación por Sistema
-
 ## Celda Robótica:
 
 - **Robot:** US$25.000 a US$200.000 o más
@@ -60,3 +58,10 @@
 - **Total:** US$925 a US$4.000 por año
 
 ## Total general: US$6.975 a US$31.000 por año
+
+# Productos a vender
+
+Se planea vender dos tipos de baldosa, una con estilo estandarizado (los colores y estilos que ya existen) pero con la posibilidad de tamaños personalizados, y otra con un estilo personalizado usando impresiones digitales o herramientas para el diseño de formas y colores. Se define según el mercado actual los precios y ventas estimadas.
+
+
+
