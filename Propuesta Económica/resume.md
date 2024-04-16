@@ -1,45 +1,67 @@
-# Productos de Baldosas Cerámicas
+# Estimado de la inversión inicial por sistema
 
-## Producto 1: Baldosa Cerámica Corona Pisos Andina Gris 
+## Celda Robótica:
 
-**Descripción:** Esta baldosa de cerámica de la marca Corona se caracteriza por su color gris claro y su acabado mate, lo que la convierte en una opción versátil para pisos y paredes de interiores. Su formato de 30x60 cm la hace ideal para espacios de tamaño moderado.
+- **Robot:** US$25.000 a US$200.000 o más
+- **Periféricos:** US$10.000 a US$50.000
+- **Software:** US$5.000 a US$20.000
+- **Integración:** US$10.000 a US$50.000
+- **Total:** US$50.000 a US$320.000 o más
 
-- **Precio:** $45.000 COP/m²
-- **Tamaño de lote:** 1.8 m²/caja (6 unidades)
-- **Precio por caja:** $81.000 COP
-- **Ventas mensuales aproximadas:** 500 cajas
-- **Público objetivo:** Personas que buscan una baldosa cerámica básica, económica y de fácil instalación.
+## Sistema SCADA:
 
-**Justificación de la elección:**
+- **Hardware:** US$5.000 a US$25.000
+- **Software:** US$1.000 a US$10.000
+- **Ingeniería e integración:** US$10.000 a US$50.000
+- **Total:** US$16.000 a US$85.000
 
-- **Demanda:** Según un informe de Informadores de Expertos, el mercado de baldosas cerámicas en Latinoamérica alcanzará un valor de USD 36,73 mil millones en 2032, con un crecimiento anual compuesto del 5,9% entre 2024 y 2032. Esto indica un panorama positivo para la demanda de baldosas cerámicas en Colombia, incluyendo productos básicos como la baldosa Corona Pisos Andina Gris.
-- **Precio:** El precio de esta baldosa es competitivo en comparación con otros productos del mercado, lo que la hace accesible para un gran número de consumidores, tal como lo menciona Mordor Intelligence en su análisis del mercado global de baldosas cerámicas.
-- **Marca:** Corona es una marca reconocida y confiable en el mercado colombiano de materiales de construcción, lo que genera confianza en los consumidores, como lo confirma Valuemarketresearch.com en su informe sobre el mercado de baldosas cerámicas.
+## Red de Comunicaciones:
 
-## Producto 2: Baldosa Cerámica Imola Imola Grey 
+- **Componentes de red:** US$500 a US$5.000
+- **Ingeniería e integración:** US$2.000 a US$5.000
+- **Total:** US$700 a US$10.000
+
+## Total general: US$72.700 a US$415.000 o más
 
 
-**Descripción:** Esta baldosa de cerámica de la marca Imola destaca por su elegante tono gris oscuro y su acabado brillante. Su formato de 60x60 cm aporta amplitud a los espacios.
 
-- **Precio:** $90.000 COP/m²
-- **Tamaño de lote:** 1.44 m²/caja (4 unidades)
-- **Precio por caja:** $129.600 COP
-- **Ventas mensuales aproximadas:** 200 cajas
-- **Público objetivo:** Personas que buscan una baldosa cerámica de mayor calidad, diseño y exclusividad.
+# Estimado de los costos operativos por sistema
 
-**Justificación de la elección:**
+## Celda Robótica:
 
-- **Demanda:** Se observa un crecimiento en la demanda de baldosas cerámicas de alta gama, impulsada por el creciente interés de los consumidores en productos de diseño exclusivo y mayor calidad. Mordor Intelligence estima que el mercado global de baldosas cerámicas alcanzará USD 489,70 mil millones en 2028, con un CAGR del 6,43% durante el período de pronóstico, lo que incluye el segmento de alta gama.
-- **Precio:** El precio de esta baldosa es competitivo dentro del segmento de alta gama, lo que la hace atractiva para un público que busca un producto diferenciado.
-- **Diseño:** La baldosa Imola Imola Grey presenta un diseño moderno y elegante que la hace ideal para espacios contemporáneos, tal como lo destaca Informadores de Expertos en su análisis del mercado latinoamericano de baldosas cerámicas.
+- **Licencias de software:**
+  - RobotStudio: US$500 a US$5.000 por año
+  - Otros softwares de programación y simulación: US$1.000 a US$3.000 por año
+- **Consumo energético:** US$200 a US$2.000 por año
+- **Mantenimientos:** US$1.000 a US$5.000 por año
+- **Otros costos:** US$500 a US$1.000 por año (capacitación, documentación, soporte técnico)
+- **Total:** US$3.200 a US$11.000 por año
 
-## Producto 3: Baldosa Cerámica Porcelanosa Dover Grey 
+## Sistema SCADA:
 
-**Descripción:** Esta baldosa de cerámica de la marca Porcelanosa se distingue por su sofisticado color gris marengo y su acabado en cemento pulido. Su gran formato de 90x90 cm crea un efecto imponente en espacios amplios.
+- **Licencias de software:**
+  - Studio5000: US$1.000 a US$10.000 por año
+  - NX: US$500 a US$2.000 por año
+  - Ignition: US$1.000 a US$5.000 por año
+  - Otros softwares de monitoreo y control: US$500 a US$2.000 por año
+- **Consumo energético:** US$100 a US$1.000 por año
+- **Mantenimientos:** US$500 a US$2.500 por año
+- **Otros costos:** US$250 a US$500 por año (capacitación, documentación, soporte técnico)
+- **Total:** US$2.850 a US$16.000 por año
 
-- **Precio:** $150.000 COP/m²
-- **Tamaño de lote:** 1.62 m²/caja (4 unidades)
-- **Precio por caja:** $243.000 COP
-- **Ventas mensuales aproximadas:** 100 cajas
-- **Público objetivo:** Personas que buscan una baldosa cerámica de alta gama, diseño vanguardista y máxima calidad.
+## Red de Comunicaciones:
+
+- **Licencias de software:** US$500 a US$2.000 por año
+- **Consumo energético:** US$50 a US$500 por año
+- **Mantenimientos:** US$250 a US$1.250 por año
+- **Otros costos:** US$125 a US$250 por año (capacitación, documentación, soporte técnico)
+- **Total:** US$925 a US$4.000 por año
+
+## Total general: US$6.975 a US$31.000 por año
+
+# Productos a vender
+
+Se planea vender dos tipos de baldosa, una con estilo estandarizado (los colores y estilos que ya existen) pero con la posibilidad de tamaños personalizados, y otra con un estilo personalizado usando impresiones digitales o herramientas para el diseño de formas y colores. Se define según el mercado actual los precios y ventas estimadas.
+
+
 
