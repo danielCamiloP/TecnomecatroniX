@@ -14,5 +14,8 @@ Como primera medida, se considerarán barreras láser para evitar el ingreso de 
 
 
 
-https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/de1e4a50-de39-455d-989b-2a55ae725a4e
+https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/0516503f-843f-4945-8509-8554538535a9
+
+
+
 
