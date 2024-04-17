@@ -6,3 +6,9 @@ Para el proyecto, se tiene contemplado emplear una celda robotizada para el pale
 
 ## Elementos de seguridad a considerar
 Como primera medida, se considerarán barreras láser para evitar el ingreso de personal al área de trabajo mientras se encuentre en operación el sistema. Adicionalmente se considerarán alarmas y luces indicativas para señalizar el estado del proceso, teniendo en cuenta los estados de parada, alistamiento, ejecución, y falla. 
+
+
+## Resultado simulación gantry 
+
+https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/44545cdb-1ea5-4128-8c42-93de2d60c29e
+
