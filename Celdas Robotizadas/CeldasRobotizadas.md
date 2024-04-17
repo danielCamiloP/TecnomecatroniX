@@ -10,5 +10,9 @@ Como primera medida, se considerarán barreras láser para evitar el ingreso de 
 
 ## Resultado simulación gantry 
 
-https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/44545cdb-1ea5-4128-8c42-93de2d60c29e
+[//]: <> (https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/44545cdb-1ea5-4128-8c42-93de2d60c29e)
+
+
+
+https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/de1e4a50-de39-455d-989b-2a55ae725a4e
 
