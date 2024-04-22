@@ -33,7 +33,29 @@ Se estudiará económicamente la viabilidad de este proyecto, para esto, se esti
 
 Se establece finalmente un valor de US$1.000.000 que corresponde a COP$4.000.000.000 aproximadamente de inversión inicial.
 
+## Nómina para el proyecto
 
+Este proyecto contará con los 7 ingenieros que conforman este grupo. Se asigna un salario de COP$8.000.000 mensuales por ingeniero, dado que son 7 ingenieros esto sería (mensual):
+
+$$
+S =  $8.000.000*7 = $56.000.000
+$$
+
+También se requiere mano de obra que cumpla la función de instalar, mover y transportar los diferentes equipos, para ellos se establece un salario promedio de $2.054.520 y se estima la contratación de 50 personas en este año de implementación del proyecto. Entonces el costo mensual de nómina por esta mano de obra es:
+
+$$
+S =  $2.054.520*50 = $102.726.000
+$$
+
+El costo total de la nómina mensual sería:
+
+$$
+C_{nom} =   $102.726.000 +  $56.000.000 = $158.726.000
+$$
+
+Lo que corresponde a  $1.904.712.000 de costos de nómina a lo largo de todo el año (12 meses).
+
+La inversión total por el proyecto contando la inversión en máquinas y mano de obra corresponde a $5.904.712.000 (Año 0).
 
 # Puesta en marcha
 
