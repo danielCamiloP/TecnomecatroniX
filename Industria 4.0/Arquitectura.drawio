@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T20:19:45.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.2.2" etag="V_yuMTRWP-Q-UzKouGzU" type="google">
+<mxfile host="app.diagrams.net" modified="2024-04-22T21:25:30.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="nGV9M2RaBuOodhT72ezb" version="24.2.2" type="github">
   <diagram name="Page-1" id="xSHntohndLy9GJ_s7QsW">
-    <mxGraphModel>
+    <mxGraphModel dx="1687" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fsBljXGcJ2TdcKD-S9Kj-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="600" as="sourcePoint" />
+            <mxPoint x="1050" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fsBljXGcJ2TdcKD-S9Kj-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="400" as="sourcePoint" />
+            <mxPoint x="1050" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fsBljXGcJ2TdcKD-S9Kj-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="1050" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fsBljXGcJ2TdcKD-S9Kj-5" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Nivel 3&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Opreaciones de Manufactura&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="35" y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fsBljXGcJ2TdcKD-S9Kj-6" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Nivel 2&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Supervisión&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="35" y="280" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fsBljXGcJ2TdcKD-S9Kj-9" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Nivel 1&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Control de proceso&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="35" y="480" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fsBljXGcJ2TdcKD-S9Kj-10" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Nivel 0&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Dispositivos de campo / Proceso&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="680" width="190" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
