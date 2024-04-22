@@ -2,7 +2,7 @@
 La simulación de las plantas se llevó a cabo mediante la representación de cada sección como bloques tipo "station", con probabilidad de falla del 2% en Tecnomatix, con la incorporación de gráficos 3D para una mejor visualización. Se estableció una conexión por bandas transportadoras, donde se definio una velocidad constante de 0.7 m/s, para el flujo de baldosas entre las secciones.
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/78307832-4adb-49a0-b87d-77924a172529)
 Ademas para la simulación de los trabajadores, se propone una eficiencia del 80%. Se les asignan tareas de transporte y procesamiento.
-![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/cdbadae1-733e-4d30-80ec-7149aac45db1)
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/29200d97-d602-4992-8e78-ed0217a259bd)
 
 # Configuración de la Planta Actual
 ## Descripción General
