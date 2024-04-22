@@ -13,8 +13,15 @@ En la configuración actual, la planta produce un solo tipo de baldosa, siguiend
 ## Modelo 3D
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/71f7cd0f-322f-4cbd-8c47-5561764cca62)
 
-# PLanta Automatizada
+# Configuración PLanta Automatizada
+## Descripción General
+La propuesta de automatización busca mejorar la versatilidad de la planta, introduciendo tres tipos de baldosas: lisas, mates y texturizadas. Se plantea una bifurcación en la sección de Esmaltado para procesar las baldosas mates y texturizadas, manteniendo la producción de baldosas lisas en la línea original.
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/ef94fb52-5cca-45de-a497-6be171e2b95f)
+Adicionalmente, en la sección de control de calidad, empaquetado y paletizado, se plantea la unificación de las tres líneas en una sola. En esta configuración, una máquina se encargaría del control de calidad, otra del empaquetado, y se implementaría una celda robotizada para el empaquetado final.
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/1b61293f-e87b-4384-9d06-d7f0e5c53adb)
+
 ## Modelo 2D
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/8d037201-dd0c-4516-b736-042c9eca9c3f)
+
 ## Modelo 3D
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/a5d7379b-95b1-4c01-bf84-0c7fe60389c6)
