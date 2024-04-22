@@ -4,8 +4,26 @@ Para el proyecto, se tiene contemplado emplear una celda robotizada para el pale
 ## Propuesta de distribución de celda
 ![Imagen de WhatsApp 2024-04-08 a las 20 31 21_769d7e0d](https://github.com/danielCamiloP/TecnomecatroniX/assets/37418973/fc20e56e-3ba1-4ecc-872b-64ce2e8bbdcf)
 
+
+Se define el WS1 como la banda transportadora, el WS2 como las estibas donde se colocaran las cajas y el WS3 son las rutas donde transitaran los agvs
+
+
 ## Elementos de seguridad a considerar
 Como primera medida, se considerarán barreras láser para evitar el ingreso de personal al área de trabajo mientras se encuentre en operación el sistema. Adicionalmente se considerarán alarmas y luces indicativas para señalizar el estado del proceso, teniendo en cuenta los estados de parada, alistamiento, ejecución, y falla. 
+
+
+## AGV
+
+Para los AGV se opto por los AMR F702 de ABB que se pueden ver en la imagen
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/74e5ea6f-0bf3-49ad-b862-ac5aff12336b)
+
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/dbee8790-6676-4727-88b7-8d63c8a24ccf)
+
+
+
+Estos robots cuentan con proteccion de 360°. Ademassoprtan cargas de 2000 kg a una altura 0 y cargas de 1183 kg a una altura de 6m
 
 
 ## Proceso de creacion del robot Gantry de XYZ
