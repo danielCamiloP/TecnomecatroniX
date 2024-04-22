@@ -67,7 +67,7 @@ Según los productos definidos, se toman 3 referencias de estos en páginas del 
 
 ## Producto 1 - Baldosa mate 30x60 cm
 
-![image](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/imagenes/prod1.png)
+![image](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/imagenes/prod2.png)
 
 La referencia de este producto puede ser encontrada en este [enlace](https://www.homecenter.com.co/homecenter-co/product/395624/piso-pared-ceramico-avellano-beige-30x60cm-caja-162-m2/395624/?kid=goosho_1246419&shop=googleShopping&gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT7zUZUM5bbt577Q1XyNc6PeTEHuW5_orI4zHAUkWnBT5m6q9_t3lo5BoCgkIQAvD_BwE).
 
@@ -86,7 +86,7 @@ Se establece un aproximado de lotes vendidos, donde este valor corresponde al 80
 
 ## Producto 2 - Baldosa esmaltada decorada 30x60 cm
 
-![image](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/imagenes/prod2.png)
+![image](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/imagenes/prod3.png)
 
 La referencia de este producto puede ser encontrada en este [enlace](https://www.decorceramica.com/atelier-b-30-60-marengo-kc03me182/p).
 
@@ -103,7 +103,7 @@ Esta tiene un precio por metro cuadrado de $79519. De la ficha técnica de este 
 
 ## Producto 3 - Baldosa texturizada 30x60 cm
 
-![image](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/imagenes/prod3.png)
+![image](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/imagenes/prod1.png)
 
 La referencia de este producto puede ser encontrada en este [enlace](https://corona.co/productos/revestimientos/paredes/pared-santa-maria/p/451419791).
 
