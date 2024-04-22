@@ -12,6 +12,10 @@ En la configuración actual, la planta produce un solo tipo de baldosa, siguiend
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/d93120bf-b491-48f1-a16c-4d82bbdaef7a)
 ## Modelo 3D
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/71f7cd0f-322f-4cbd-8c47-5561764cca62)
+## Video
+
+https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/a802f9b2-25bc-4d62-b44a-a7b0b831868b
+
 
 # Configuración PLanta Automatizada
 ## Descripción General
@@ -22,6 +26,12 @@ Adicionalmente, en la sección de control de calidad, empaquetado y paletizado, 
 
 ## Modelo 2D
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/8d037201-dd0c-4516-b736-042c9eca9c3f)
-
 ## Modelo 3D
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/a5d7379b-95b1-4c01-bf84-0c7fe60389c6)
+
+## Video
+
+https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/9865bc22-5757-4542-8e45-4b4417e19d68
+
+
+
