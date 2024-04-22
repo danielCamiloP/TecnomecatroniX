@@ -119,7 +119,7 @@ Esta tiene un precio por metro cuadrado de $38300. De la ficha técnica de este 
 | Lotes vendidos al mes  |   6349,206349 |
 | Total ganancia mensual |  $459.600.000 |
 
-##Resumen de los productos
+## Resumen de los productos
 
 La siguiente tabla resume la información de ganancias de cada producto
 
