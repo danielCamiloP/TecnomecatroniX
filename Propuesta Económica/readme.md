@@ -55,7 +55,7 @@ $$
 
 Lo que corresponde a  $1.904.712.000 de costos de nómina a lo largo de todo el año (12 meses).
 
-La inversión total por el proyecto contando la inversión en máquinas y mano de obra corresponde a $5.904.712.000 (Año 0).
+La inversión total por el proyecto contando la inversión en máquinas y mano de obra corresponde a $5.805.674.803 (Año 0).
 
 # Puesta en marcha
 
@@ -139,20 +139,21 @@ Con esto, se establece un total de ventas de $40.311.072.000 anuales, se estable
 Debido al aumento esperado en la producción, se deberá adquirir más materia prima cuando la nueva planta esté puesta en marcha. Para esto se calcula la productividad de la planta actual y de la automatizada, obteniendo como resultado un aumento de 67262.4 m² mensuales. A partir de este dato, se estima que el costo de producir 1m² en materia prima es de $20000, por lo que mensualmente se obtiene que los costos de materias primas serían:
 
 $$
-C_{m} = $20000*67262.4 = $1.348.248.000
+C_{m} = $14.500*67262.4  $975.304.800,00
 $$
 
-Anualmente, serían $16.142.976.000 y se toma una tasa de aumento de precio del 10% anual.
+Anualmente, serían $11.703.657.600,00 y se toma una tasa de aumento de precio del 10% anual.
 
 ## Costos de operación
 
 Debido a que no se han definido máquinas aún, se toma como referencia el estado de resultados de la empresa Corona para el año 2021/2022 ilustrado en la siguiente imagen.
 
+![image](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/imagenes/costos.png)
 
-Se observa que los costos operacionales es el 55% del valor de las ventas, se toma entonces este valor para hacer un estimado de los costos operacionales obteniendo:
+Se observa que los costos operacionales es el 66% del valor de las ventas, se toma entonces este valor para hacer un estimado de los costos operacionales obteniendo:
 
 $$
-C_{op} =  $40.311.072.000*0.55 = $22.171.089.600
+C_{op} =  $40.311.072.000*0.66 = $26.605.307.520
 $$
 
 ## Costos de nómina
@@ -191,22 +192,41 @@ $$
 
 Anualmente equivale a COP$1.257.366.240, los salarios de los empleados aumentan el 10% cada año, por lo que este ahorro se verá reducido con el paso del tiempo.
 
+# Depreciación de la maquinaria de la inversión inicial
+
+Se establece una vida útil de 10 años para las máquinas compradas. Se toma un modelo de depreciación en línea recta con un valor de salvamento del 15% al final de su vida útil, obteniendo los siguientes resultados:
+
+|        Indicador       |      Valor      |
+|:----------------------:|:---------------:|
+| Valor inicial          |  $4.000.000.000 |
+| Valor de rescate (15%) |    $600.000.000 |
+| Vida util (años)       |              10 |
+| Depreciación anual     |    $340.000.000 |
+
+# Gastos financieros e intereses
+
+Se asumirá que el dinero proviene de fuentes diferentes de préstamos, por lo que el gasto financiero será de $0.
+
+# Impuestos
+
+Se tomará una tasa de 19% para impuesto sobre el EBITDA.
+
 # Cálculo de indicadores
 
-Sabiendo los flujos de caja y sus tasas de crecimiento, se calcula en excel los flujos netos anuales y acumulados. A partir de estos, se calculan los indicadores económicos y financieros para determinar la viabilidad del proyecto en esta hoja de  [excel](https://docs.google.com/spreadsheets/d/1takEF3pOuxhqINvwfB2j1ACyeyrloo5Vt2VtkrYGYcc/edit#gid=1819859872).
+Sabiendo los flujos de caja y sus tasas de crecimiento, se calcula en excel los flujos netos anuales y acumulados. A partir de estos, se calculan los indicadores económicos y financieros para determinar la viabilidad del proyecto en esta hoja de  [excel](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/EvalEconomica.xlsx).
 
 En resumen, estos indicadores se pueden observar en la siguiente tabla.
 
 |       Indicador      |       Valor      |
 |:--------------------:|:----------------:|
 | Costo de oportunidad |               5% |
-| VP                   |  $37.221.317.171 |
-| Inversión inicial    |   $5.904.712.000 |
-| VPN                  |  $31.316.605.171 |
+| VP                   |  $30.546.718.896 |
+| Inversión inicial    |   $5.805.674.803 |
+| VPN                  |  $24.741.044.094 |
 | TIR                  |              59% |
-| Payback              |                2 |
-| ROI                  |          491,00% |
-| TIR (financiero)     |              37% |
+| Payback    (años)    |                2 |
+| ROI                  |          398,57% |
+| TIR (financiero)     |              42% |
 
 
 Donde se observa que el proyecto es económicamente viable.
