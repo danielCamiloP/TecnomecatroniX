@@ -193,8 +193,6 @@ Anualmente equivale a COP$1.257.366.240, los salarios de los empleados aumentan 
 
 # Cálculo de indicadores
 
- [excel](https://docs.google.com/spreadsheets/d/1takEF3pOuxhqINvwfB2j1ACyeyrloo5Vt2VtkrYGYcc/edit#gid=1819859872).
-
 Sabiendo los flujos de caja y sus tasas de crecimiento, se calcula en excel los flujos netos anuales y acumulados. A partir de estos, se calculan los indicadores económicos y financieros para determinar la viabilidad del proyecto en esta hoja de  [excel](https://docs.google.com/spreadsheets/d/1takEF3pOuxhqINvwfB2j1ACyeyrloo5Vt2VtkrYGYcc/edit#gid=1819859872).
 
 En resumen, estos indicadores se pueden observar en la siguiente tabla.
