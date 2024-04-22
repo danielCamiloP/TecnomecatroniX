@@ -155,3 +155,37 @@ C_{op} =  $40.311.072.000*0.55 = $22.171.089.600
 $$
 
 ## Costos de nómina
+
+De los VSM establecidos, se construyen las siguientes tablas que ilustran la cantidad de personal en cada etapa del proceso, para la planta actual se tiene un salario de MXN$300 diarios (datos de la empresa Castel) lo cual corresponde mensualmente a COP$2.054.520,00, en la planta actual, los costos de nómina se representan en la siguiente tabla:
+
+| Proceso    | Cantidad de personal | Salario          |
+|------------|----------------------|------------------|
+| Prensado   |                    9 |   $18.490.680,00 |
+| Esmaltado  |                    3 |    $6.163.560,00 |
+| Impresión  |                    3 |    $6.163.560,00 |
+| Horneado   |                    3 |    $6.163.560,00 |
+| QC         |                    9 |   $18.490.680,00 |
+| Empacado   |                   27 |   $55.472.040,00 |
+| Paletizado |                   27 |   $55.472.040,00 |
+| Total      |                    = |  $166.416.120,00 |
+
+Para la planta automatizada, se tiene que:
+
+| Proceso          | Cantidad de personal | Salario         |
+|------------------|----------------------|-----------------|
+| Prensado         |                    9 |  $18.490.680,00 |
+| Esmaltado+Engobe |                    6 |  $12.327.120,00 |
+| Impresión        |                    3 |   $6.163.560,00 |
+| Horneado         |                    3 |   $6.163.560,00 |
+| QC               |                    3 |   $6.163.560,00 |
+| Empacado         |                    3 |   $6.163.560,00 |
+| Paletizado       |                    3 |   $6.163.560,00 |
+| Total            |                    = |  $61.635.600,00 |
+
+Como se observa, los costos de nómina se ven reducidos, lo cual representa un ahorro que equivale a:
+
+$$
+C_{nom} = $166.416.120,00 - $61.635.600,00 = $104.780.520,00
+$$
+
+Anualmente equivale a COP$1.257.366.240, los salarios de los empleados aumentan el 10% cada año, por lo que este ahorro se verá reducido con el paso del tiempo.
