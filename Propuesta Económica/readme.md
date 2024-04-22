@@ -1,3 +1,8 @@
+# Productos 
+
+Según los productos definidos, se toman 3 referencias de estos en páginas del mercado para tener datos de precio, tamaño de lote, entre otros importantes para analizar económicamente el proyecto.
+
+
 # Estimado de la inversión inicial por sistema
 
 ## Celda Robótica:
