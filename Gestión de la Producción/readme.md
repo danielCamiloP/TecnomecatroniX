@@ -1,5 +1,5 @@
 
-# PLanta Actual
+# Planta Actual
 ## Modelo 2D
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/d93120bf-b491-48f1-a16c-4d82bbdaef7a)
 ## Modelo 3D
