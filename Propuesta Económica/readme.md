@@ -27,7 +27,7 @@ Se estudiará económicamente la viabilidad de este proyecto, para esto, se esti
 
 ### Nuevas máquinas
 
-- **Nuevas decoradoras, bandas transportadoras y demás elementos de la planta** US$500.000
+- **Nuevas decoradoras, bandas transportadoras y demás elementos de la planta**: US$500.000
 
 ### Total general estimado: US$1.000.000 
 
