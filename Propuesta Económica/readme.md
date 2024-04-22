@@ -117,3 +117,28 @@ Esta tiene un precio por metro cuadrado de $38300. De la ficha técnica de este 
 | Precio de un lote      |       $72.387 |
 | Lotes vendidos al mes  |   6349,206349 |
 | Total ganancia mensual |  $459.600.000 |
+
+##Resumen de los productos
+
+La siguiente tabla resume la información de ganancias de cada producto
+
+| Producto | Mensual         | Anual            | % participación |
+|----------|-----------------|------------------|-----------------|
+|        1 |    $991.200.000 |  $11.894.400.000 |          29,51% |
+|        2 |  $1.908.456.000 |  $22.901.472.000 |          56,81% |
+|        3 |    $459.600.000 |   $5.515.200.000 |          13,68% |
+| Total    |  $3.359.256.000 |  $40.311.072.000 |         100,00% |
+
+Con esto, se establece un total de ventas de $40.311.072.000 anuales, se establece una tasa de crecimiento de ventas del 10% anual.
+
+# Costos
+
+## Materia prima
+
+Debido al aumento esperado en la producción, se deberá adquirir más materia prima cuando la nueva planta esté puesta en marcha. Para esto se calcula la productividad de la planta actual y de la automatizada, obteniendo como resultado un aumento de 67262.4 m² mensuales. A partir de este dato, se estima que el costo de producir 1m² en materia prima es de $20000, por lo que mensualmente se obtiene que los costos de materias primas serían:
+
+$$
+C = $20000*67262.4 = $1.348.248.000
+$$
+
+Anualmente, serían $16.142.976.000 y se toma una tasa de aumento de precio del 10% anual.
