@@ -139,7 +139,7 @@ Con esto, se establece un total de ventas de $40.311.072.000 anuales, se estable
 Debido al aumento esperado en la producción, se deberá adquirir más materia prima cuando la nueva planta esté puesta en marcha. Para esto se calcula la productividad de la planta actual y de la automatizada, obteniendo como resultado un aumento de 67262.4 m² mensuales. A partir de este dato, se estima que el costo de producir 1m² en materia prima es de $20000, por lo que mensualmente se obtiene que los costos de materias primas serían:
 
 $$
-C = $20000*67262.4 = $1.348.248.000
+C_{m} = $20000*67262.4 = $1.348.248.000
 $$
 
 Anualmente, serían $16.142.976.000 y se toma una tasa de aumento de precio del 10% anual.
@@ -190,3 +190,25 @@ C_{nom} = $166.416.120,00 - $61.635.600,00 = $104.780.520,00
 $$
 
 Anualmente equivale a COP$1.257.366.240, los salarios de los empleados aumentan el 10% cada año, por lo que este ahorro se verá reducido con el paso del tiempo.
+
+# Cálculo de indicadores
+
+ [excel](https://docs.google.com/spreadsheets/d/1takEF3pOuxhqINvwfB2j1ACyeyrloo5Vt2VtkrYGYcc/edit#gid=1819859872).
+
+Sabiendo los flujos de caja y sus tasas de crecimiento, se calcula en excel los flujos netos anuales y acumulados. A partir de estos, se calculan los indicadores económicos y financieros para determinar la viabilidad del proyecto en esta hoja de  [excel](https://docs.google.com/spreadsheets/d/1takEF3pOuxhqINvwfB2j1ACyeyrloo5Vt2VtkrYGYcc/edit#gid=1819859872).
+
+En resumen, estos indicadores se pueden observar en la siguiente tabla.
+
+|       Indicador      |       Valor      |
+|:--------------------:|:----------------:|
+| Costo de oportunidad |               5% |
+| VP                   |  $37.221.317.171 |
+| Inversión inicial    |   $5.904.712.000 |
+| VPN                  |  $31.316.605.171 |
+| TIR                  |              59% |
+| Payback              |                2 |
+| ROI                  |          431,69% |
+| TIR (financiero)     |              32% |
+
+
+Donde se observa que el proyecto es económicamente viable.
