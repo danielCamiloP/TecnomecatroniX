@@ -5,7 +5,7 @@
 ## Modelo 3D
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/71f7cd0f-322f-4cbd-8c47-5561764cca62)
 
-# PLanta Automatizada
+# Planta Automatizada
 ## Modelo 2D
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/8d037201-dd0c-4516-b736-042c9eca9c3f)
 ## Modelo 3D
