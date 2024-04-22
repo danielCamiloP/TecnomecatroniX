@@ -7,3 +7,4 @@ La herramienta elegida para relizar la planeación del proyecto es el CRM Clicku
 
 ## Cronograma en Diagrama de Gantt
 Como resultado del segundo paso se presenta un cronograma en el diagrama de Gantt en el CRM Clickup
+[Enlace al diagrama de Gantt en el CRM Clickup](https://sharing.clickup.com/9013028738/g/h/8ckftw2-653/38d6f748b8ea3fe)
