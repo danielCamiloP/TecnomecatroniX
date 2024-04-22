@@ -205,8 +205,8 @@ En resumen, estos indicadores se pueden observar en la siguiente tabla.
 | VPN                  |  $31.316.605.171 |
 | TIR                  |              59% |
 | Payback              |                2 |
-| ROI                  |          431,69% |
-| TIR (financiero)     |              32% |
+| ROI                  |          491,00% |
+| TIR (financiero)     |              37% |
 
 
 Donde se observa que el proyecto es económicamente viable.
