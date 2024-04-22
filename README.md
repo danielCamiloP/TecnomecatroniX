@@ -28,6 +28,7 @@ Somos *Tecnomecatronix*, un equipo de 7 estudiantes que estamos cursando *Automa
   Adicionalmente, les presentamos nuestras reflexiones personales y grupales sobre el desarrollo del proyecto.
 
 ### Los invitamos a navegar por el repositorio para conocer más de cada sección.
+**NOTA:** Este repositorio sigue en construcción dado que el desarrollo del proyecto no ha culminado. A la fecha del 22 de abril de 2024, solo están disponibles los archivos para los módulos 1 al 6 del curso.
 
 ### Integrantes
 - Yuli Alpala - :email:[Contacto](mailto:yalpalac@unal.edu.co?subject=Contacto%20-%20TecnomecatroniX&body=Hola!%20Me%20interesa%20saber%20m%C3%A1s%20acerca%20de%20su%20proyecto) - :octocat: [Perfil en GitHub](https://github.com/YuliAlpala)
