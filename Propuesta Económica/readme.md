@@ -142,3 +142,16 @@ C = $20000*67262.4 = $1.348.248.000
 $$
 
 Anualmente, serían $16.142.976.000 y se toma una tasa de aumento de precio del 10% anual.
+
+## Costos de operación
+
+Debido a que no se han definido máquinas aún, se toma como referencia el estado de resultados de la empresa Corona para el año 2021/2022 ilustrado en la siguiente imagen.
+
+
+Se observa que los costos operacionales es el 55% del valor de las ventas, se toma entonces este valor para hacer un estimado de los costos operacionales obteniendo:
+
+$$
+C_{op} =  $40.311.072.000*0.55 = $22.171.089.600
+$$
+
+## Costos de nómina
