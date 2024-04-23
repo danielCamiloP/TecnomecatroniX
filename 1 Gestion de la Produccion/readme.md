@@ -29,6 +29,12 @@ Adicionalmente, en la sección de control de calidad, empaquetado y paletizado, 
 ## Modelo 3D
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/a5d7379b-95b1-4c01-bf84-0c7fe60389c6)
 
+# Key Performance Indicators (KPIs)
+Los Indicadores Clave de Desempeño (KPIs) son medidas tangibles empleadas para analizar cómo una organización, proceso o proyecto progresa hacia el cumplimiento de sus metas. Estos indicadores suministran datos concretos y pertinentes sobre el avance o éxito en aspectos fundamentales, otorgando a las empresas la capacidad de tomar decisiones fundamentadas y ajustar estrategias según sea necesario. La diversidad de KPIs varía según la industria y los objetivos particulares de la entidad que los emplea
+
+## Indicadores de producción
+## Actual 
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/49196698/512fa7b6-8381-4abf-8c75-7c586741cb39)
 ## Video
 
 https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/9865bc22-5757-4542-8e45-4b4417e19d68
