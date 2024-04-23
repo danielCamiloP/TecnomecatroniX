@@ -1,3 +1,9 @@
+# 7 pasos
+
+Para gestionar el proyecto
+
+
+
 # Consideraciones de la Simulación
 La simulación de las plantas se llevó a cabo mediante la representación de cada sección como bloques tipo "station", con probabilidad de falla del 2% en Tecnomatix, con la incorporación de gráficos 3D para una mejor visualización. Se estableció una conexión por bandas transportadoras, donde se definio una velocidad constante de 0.7 m/s, para el flujo de baldosas entre las secciones.
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/78307832-4adb-49a0-b87d-77924a172529)
