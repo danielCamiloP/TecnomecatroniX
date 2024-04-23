@@ -28,6 +28,7 @@ La herramienta elegida para relizar la planeación del proyecto es el CRM Clicku
 ## Cronograma en Diagrama de Gantt
 Como resultado del segundo paso se presenta un cronograma en el diagrama de Gantt en el CRM Clickup
 [Enlace al diagrama de Gantt en el CRM Clickup](https://sharing.clickup.com/9013028738/g/h/8ckftw2-653/38d6f748b8ea3fe)
+![Vista previa diagrama de Gantt](./Gantt.png)
 
 En la siguiente imágen se puede observar que la herramienta fue muy útil para garantizar un orden de trabajo y conseguir los objetivos propuestos para esta primera entrega de trabajo. La técnica implementada para el desarrollo de las actividades fue fast tracking, la cual se basa en superposición de actividades ya que hubo la necesidad de avanzar en diferentes actividades a la vez para cumplir el requisito de otras. 
 
