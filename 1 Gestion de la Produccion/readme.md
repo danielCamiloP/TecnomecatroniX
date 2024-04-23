@@ -34,7 +34,7 @@ Los Indicadores Clave de Desempeño (KPIs) son medidas tangibles empleadas para 
 
 ## Indicadores de producción
 ## Actual 
-![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/49196698/512fa7b6-8381-4abf-8c75-7c586741cb39)
+![actual](https://github.com/danielCamiloP/TecnomecatroniX/assets/49196698/512fa7b6-8381-4abf-8c75-7c586741cb39)
 ## Video
 
 https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/9865bc22-5757-4542-8e45-4b4417e19d68
