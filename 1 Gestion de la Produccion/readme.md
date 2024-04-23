@@ -1,7 +1,3 @@
-# 7 pasos
-
-Para gestionar el proyecto
-
 
 
 # Consideraciones de la Simulación
