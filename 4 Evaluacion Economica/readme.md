@@ -67,7 +67,7 @@ Según los productos definidos, se toman 3 referencias de estos en páginas del 
 
 ## Producto 1 - Baldosa mate 30x60 cm
 
-![image](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/imagenes/prod2.png)
+![image](./imagenes/prod2.png)
 
 La referencia de este producto puede ser encontrada en este [enlace](https://www.homecenter.com.co/homecenter-co/product/395624/piso-pared-ceramico-avellano-beige-30x60cm-caja-162-m2/395624/?kid=goosho_1246419&shop=googleShopping&gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT7zUZUM5bbt577Q1XyNc6PeTEHuW5_orI4zHAUkWnBT5m6q9_t3lo5BoCgkIQAvD_BwE).
 
@@ -86,7 +86,7 @@ Se establece un aproximado de lotes vendidos, donde este valor corresponde al 80
 
 ## Producto 2 - Baldosa esmaltada decorada 30x60 cm
 
-![image](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/imagenes/prod3.png)
+![image](./imagenes/prod3.png)
 
 La referencia de este producto puede ser encontrada en este [enlace](https://www.decorceramica.com/atelier-b-30-60-marengo-kc03me182/p).
 
@@ -103,7 +103,7 @@ Esta tiene un precio por metro cuadrado de $79519. De la ficha técnica de este 
 
 ## Producto 3 - Baldosa texturizada 30x60 cm
 
-![image](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/imagenes/prod1.png)
+![image](./imagenes/prod1.png)
 
 La referencia de este producto puede ser encontrada en este [enlace](https://corona.co/productos/revestimientos/paredes/pared-santa-maria/p/451419791).
 
@@ -148,7 +148,7 @@ Anualmente, serían $11.703.657.600,00 y se toma una tasa de aumento de precio d
 
 Debido a que no se han definido máquinas aún, se toma como referencia el estado de resultados de la empresa Corona para el año 2021/2022 ilustrado en la siguiente imagen.
 
-![image](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/imagenes/costos.png)
+![image](./imagenes/costos.png)
 
 Se observa que los costos operacionales es el 66% del valor de las ventas, se toma entonces este valor para hacer un estimado de los costos operacionales obteniendo:
 
@@ -213,7 +213,7 @@ Se tomará una tasa de 19% para impuesto sobre el EBITDA.
 
 # Cálculo de indicadores
 
-Sabiendo los flujos de caja y sus tasas de crecimiento, se calcula en excel los flujos netos anuales y acumulados. A partir de estos, se calculan los indicadores económicos y financieros para determinar la viabilidad del proyecto en esta hoja de  [excel](https://github.com/danielCamiloP/TecnomecatroniX/blob/main/Propuesta%20Econ%C3%B3mica/EvalEconomica.xlsx).
+Sabiendo los flujos de caja y sus tasas de crecimiento, se calcula en excel los flujos netos anuales y acumulados. A partir de estos, se calculan los indicadores económicos y financieros para determinar la viabilidad del proyecto en esta hoja de  [excel](./EvalEconomica.xlsx).
 
 En resumen, estos indicadores se pueden observar en la siguiente tabla.
 
