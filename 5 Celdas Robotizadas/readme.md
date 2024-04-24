@@ -78,7 +78,9 @@ Despues añadimos Robotware y el SAC.
 Y en la siguiente ventana escogemos el tipo de robot que queremos controlar, en este caso seria un GANTRY XYZ, y ya podemos crear nuestro controlador.
 
 
-![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/242a6bd7-3de4-4f41-96f9-7460360bfdb8)
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/c01383a7-5be6-450f-bffc-83aab60ca518)
+
 
 Despues solo necesitamos ir a la ventana controller y añadir el controlador que creamos en la estacion
 
