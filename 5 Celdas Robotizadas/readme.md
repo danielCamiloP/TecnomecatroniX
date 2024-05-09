@@ -1,6 +1,9 @@
 # Propuesta de Celdas Robotizadas
 Para el proyecto, se tiene contemplado emplear una celda robotizada para el paletizado de las cajas de baldosas. Esta celda empleará un gantry robotizado que permita recoger y apilar las cajas en la distrubución adecuada para su despacho, sobre AGVs que lleven cada cargamento hasta la bodega o su transporte de salida de la planta. Se tendrán AGVs en constante movimiento para poder disponer de todas las cajas de manera adecuada. Se plantea simular el gantry por medio de RobotStudio, y realizar su operación y control empleando un controlador IRC5. 
 
+## proceso de cracion de la celda
+
+
 ## Propuesta de distribución de celda
 
 
@@ -12,7 +15,11 @@ Se define el WS1 como la banda transportadora, el WS2 como las estibas donde se 
 
 
 ## Elementos de seguridad a considerar
-Como primera medida, se considerarán barreras láser para evitar el ingreso de personal al área de trabajo mientras se encuentre en operación el sistema. Adicionalmente se considerarán alarmas y luces indicativas para señalizar el estado del proceso, teniendo en cuenta los estados de parada, alistamiento, ejecución, y falla. 
+Como primera medida, se considerarán cortinas láser para evitar el ingreso de personal al área de trabajo mientras se encuentre en operación el sistema. Adicionalmente se considerarán alarmas y luces indicativas para señalizar el estado del proceso, teniendo en cuenta los estados de parada, alistamiento, ejecución, y falla. 
+Con esto se genera el siguiente plano de planta de la celda robotica:
+
+![Celda robotica plano](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/3f03b6f2-6cc8-4ec6-8659-2c04832ef531)
+
 
 
 ## AGV
@@ -118,6 +125,15 @@ A continuación se puede observar el gantry con las medidas de seguridad inicial
 https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/c10ecb70-2565-4b6f-831e-829b46f93bb0
 
 
+## smart components
+
+### banda transportadora
+
+
+### paletizado
+
+
+## conexión con ignition
 
 
 
