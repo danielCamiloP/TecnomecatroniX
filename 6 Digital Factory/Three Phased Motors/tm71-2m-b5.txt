@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-31072023-044213";"";
+"REFERENCE";"TM71-2M-B5";"";
+"TraceParts.PartTitle";"TMC motors";"";
+"TraceParts.InstanceId";"90-31072023-044213170YVMZ0MA1K4H1MOXV3F7IQJ";"";
+"TYPE";"TM71-2M";"";
+"m";"6,9";"";
+"SUPPLIER";"EMP";"";
+"DESIGN";"TM motor, three phased, asynchronous series up to 0.75kW";"";
+"SHAPE";"B5";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.4";"";

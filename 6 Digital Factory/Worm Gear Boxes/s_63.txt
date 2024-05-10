@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"S 63";"";
+"MATERIAL";"Al/20CrMnTi/SnCu12-2/QT500";"";
+"SUPPLIER";"I-Mak Gearboxes and Drives";"";
+"MASS";"5,8 kg";"";
+"TraceParts.PartNumber";"90-16062020-045978";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Aluminium Worm Gear Unit S 63";"";
+"TraceParts.InstanceId";"90-16062020-045978DRCKBOYBWIJJGB1CWUX5Q3SLV";"";
+"TraceParts.PartTitle";"Aluminium Worm Gear Unit";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"";"";
+"TraceParts.PartStatus";"Published";"";
