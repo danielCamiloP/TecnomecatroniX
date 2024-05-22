@@ -1,3 +1,4 @@
+* DISCLAIMER: para poder instalar y correr la estacion se necesita com minimo la version 2024 de robotstudio con licencia y el palletizing powerpac que se puede encontrar en la pagina de ABB
 # Propuesta de Celdas Robotizadas
 Para el proyecto, se tiene contemplado emplear una celda robotizada para el paletizado de las cajas de baldosas. Esta celda empleará un gantry robotizado que permita recoger y apilar las cajas en la distrubución adecuada para su despacho, sobre AGVs que lleven cada cargamento hasta la bodega o su transporte de salida de la planta. Se tendrán AGVs en constante movimiento para poder disponer de todas las cajas de manera adecuada. Se plantea simular el gantry por medio de RobotStudio, y realizar su operación y control empleando un controlador IRC5. 
 
