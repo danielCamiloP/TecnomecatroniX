@@ -184,4 +184,16 @@ luego se creo el smart component donde se agragaron bloques attacher, dettacher,
 ## Robotstudio AR
 
 
+Por ultimo, ya que queriamos poder ver como se veria la celda robotica en tamaño real, y para que el cliente pudiera ver un aproximado de como se veria si la instala en su planta, decidimos utilizar la realidad aumentada que nos proporciona robot studio, para esto descargamos la aplicación robotstudio AR viewer en un smartphone.
 
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/9cf92361-d706-405e-bddb-16a12678b3f3)
+
+
+Luego de esto grabamos la simulación con el boton export viewer en robotstudio.
+
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/72305e47-23af-438f-af11-3e870901aa86)
+
+
+Con esto se genera un archivo .glb que luego se puede descargar desde drive en la app y se puede cargar la simulacion para verla, ya sea a escala real o disminuida en realidad aumentada.
