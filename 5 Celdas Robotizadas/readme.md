@@ -2,7 +2,15 @@
 # Propuesta de Celdas Robotizadas
 Para el proyecto, se tiene contemplado emplear una celda robotizada para el paletizado de las cajas de baldosas. Esta celda empleará un gantry robotizado que permita recoger y apilar las cajas en la distrubución adecuada para su despacho, sobre AGVs que lleven cada cargamento hasta la bodega o su transporte de salida de la planta. Se tendrán AGVs en constante movimiento para poder disponer de todas las cajas de manera adecuada. Se plantea simular el gantry por medio de RobotStudio, y realizar su operación y control empleando un controlador IRC5. 
 
-## proceso de cracion de la celda
+## proceso de creación de la celda
+
+Se inicia con la siguiente hoja de ruta para la creación de la celda.
+
+
+![celda robotica-Página-4 drawio](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/636d961a-63b0-476f-8dbf-573a20922914)
+
+
+
 
 
 ## Propuesta de distribución de celda
