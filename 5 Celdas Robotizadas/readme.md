@@ -173,6 +173,11 @@ Como se puede ver el sensor esta conectado a una compuerta not para que cuando s
 ### paletizado
 
 
+Primero se le dio a las estibas la propiedad fisica fixed para qe se mantengan en una posición y tengan collisiones con las cajas.
+luego se creo el smart component donde se agragaron bloques attacher, dettacher, positioner, line sensor, timer queue, compuerta not y el primer smart component que creamos llamado SmartComponente_2
+
+
+
 ## conexión con ignition
 
 
