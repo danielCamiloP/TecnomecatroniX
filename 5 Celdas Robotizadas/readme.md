@@ -129,6 +129,45 @@ https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/c10ecb70-2565-4
 ## smart components
 
 ### banda transportadora
+Se empezo por realizar el smart component de la celda transportadora para esto se selecciono el modelo CAD de la banda transportadora que se muestra a continuación
+
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/b262e9ec-ad0a-483b-9df5-6ce92351fdf0)
+
+
+Despues se le dio dio un comportamiento fisico habilitando la velocidad superficial
+
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/a1484cd4-3e75-48bf-a1da-fd308fe0f117)
+
+Luego de esto se le creo una caja con el modelado 3d propio de robotstudio y se ubico al inicio de la banda transportadora.
+
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/4f87e8df-7f6e-4ace-81ec-405538531bbf)
+
+
+Ya teniendo los elementos procedemos a crear el smart component, para esto se usaron bloques source, sink, physics control, line sensor, timer, una compuerta not y los dos modelos CAD
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/1b631da6-fc11-4905-9f19-aa825b542c7c)
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/ed56d64e-84ee-4e31-8c3c-4423ab42a2b2)
+
+
+#### Logica smart component
+
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/bb03bcde-f07a-4e71-ab9c-f2bc14214475)
+
+
+Ahora vamos a explicar la logica del smart component que pueden ver arriba.
+Primero se ubico el bloque source y sink que en un principio estaban conectados a las entradas crear y borrar caja, estas entradas estan ahi en caso que se quieran quitar las cajas por medio de codigo o para hacer pruebas, en la configuracion del source se eligio que el elemento generado fuera la caja, que el transiente fuera verdadero para que al acabar la simulación se borren todas las cajas generadas y se definio un comportamiento dinamico para que se pudieran mover con la cinta transportadora
+Luego se ubico el sensor de linea al final de la banda transportadora, este sensor como se puede ver esta conectado a una salida digital que nos sirve para saber si tenemos una caja en el borde
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/6ce3dadf-d069-4f55-a12b-916de8183e68)
+
+
+Como se puede ver el sensor esta conectado a una compuerta not para que cuando se active, osea que exista una caja en el borde, la compuerta mande un 0 lo que desactiva el movimiento de la cinta transportadora, la salida de esa compuerta not también va hacia un timer que emite un pulso cada 1.5 segundos que esta conectado al source, con esto se logra generar cajas de manera equidistante, y solo cuando no se tengan cajas en el borde.
+
 
 
 ### paletizado
