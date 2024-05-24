@@ -182,7 +182,29 @@ Como se puede ver el sensor esta conectado a una compuerta not para que cuando s
 
 
 Primero se le dio a las estibas la propiedad fisica fixed para qe se mantengan en una posición y tengan collisiones con las cajas.
-luego se creo el smart component donde se agragaron bloques attacher, dettacher, positioner, line sensor, timer queue, compuerta not y el primer smart component que creamos llamado SmartComponente_2
+luego se creo el smart component donde se agragaron bloques attacher, dettacher, positioner, line sensor, timer queue, compuerta not y el primer smart component que creamos llamado SmartComponente_2.
+
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/665e7fcc-5c9a-4e23-b9d5-36321cf7dab7)
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/759e2b87-0f4d-412f-a1c2-9fd8b059d86d)
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/f314229e-f40c-41be-a821-527d8b33e2cb)
+
+
+En un primer momento se intento utilizar los bloques attacher y detacher, pero esto cargaba demasiado la simulacion y no era posible hacer una visualización correcta, por eso se cambio el sistema y en la imagen se puede ver como estos bloques no estan conectados a nada en la estación, entonces se opto por ua logica diferente que explicaremos a continuacion.
+
+
+Primero tenemos 3 entradas digitales que son DI_attach, que le va a decir al SmartComponent (SC) cuando mover la caja, luego tendremos, el crear caja conectada al SC2 denuevo por si se requiere usarlo en codigo, borrar_caja que se utilizara para borrar un lote completo de cajas cuando se quiere empezar el siguiente y tenemos 3 salidas digitales, Atached que nos confirmara que la caja ya se movio, detached, que se usaria y estuvieramos usando los bloques attacher y detacher, y sensor banda que viene del SC2 que nos dice si tenemos una caja en el borde.
+
+En la logica comenzamos asumiendo que ya tenemos una caja en el borde entonces cuando elgantry este en la posicion donde puede agarrar la caja esto va a activar el line sensor que como se puede ver va esta unido al gripper.
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/3ce321c5-c6e2-457e-9baa-8bd1fcd50a85)
+
+Al activarse este line sensor va a activar la señal DI_Attach, suponiendo que vamos a agarrar la caja, tambien va a poner la caja en una cola donde va a ser el unico elemento por lo que sera el back y el front a la vez, despues de esto el gantry se va a mover a la posicion donde deberia dejar la caja, en esa posicion se va a desactivar la señal DI_Attach, que al pasar por la compuerta not se va a invertir, esto va a activar un positioner que como objeto a posicionar va a tener el frente de la cola, que es la caja que queremos mover, y ademas va a activar un timer que despues de 0.5 segundos va a desencolar la caja de la cola dejandola vacia, este timer es necesario ya que si mandabamos la señal de desencolar al mismo tiemo que el positioner, no este ultimo perdia la referencia antes de poder moverla, y cuando se ejecute activa la salida attached para que el gantry sepa que ya dejo la caja y pueda ir a la siguiente.
+
+El positioner al activarse ponen en un segunda cola la caja que posiciono, esta cola va a guardar todas las cajas del lote de tal manera que cuando activemos la señal borrar caja se van a borrar todas las cajas del lote actual y podamos continuar con el siguiente. 
+
+
 
 
 
