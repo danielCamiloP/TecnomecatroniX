@@ -214,6 +214,12 @@ Donde conectaremos las entradas y salidas del SC a salidas y entradas del contro
 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/a309531f-9f30-46fa-ab16-aa5170bce2b4)
 
+#### Simulación con SC
+
+
+
+https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/c47f2851-4832-48b7-b615-857ed4c6d2d0
+
 
 
 
