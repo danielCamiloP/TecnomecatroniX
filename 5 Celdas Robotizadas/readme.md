@@ -221,6 +221,10 @@ Donde conectaremos las entradas y salidas del SC a salidas y entradas del contro
 https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/c47f2851-4832-48b7-b615-857ed4c6d2d0
 
 
+## AGV 
+para la simulación del AGV se decidio tomar un enfoque similara a los SC, donde se va a generar un modelo 3d del gantry y se va a tratar como un solo solido el gantry y la estiba que lleva, y se usara un camino como banda transportadora, para simular el movimiento del AGV
+
+
 
 
 ## conexión con ignition
