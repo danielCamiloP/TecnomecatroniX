@@ -204,6 +204,15 @@ Al activarse este line sensor va a activar la señal DI_Attach, suponiendo que v
 
 El positioner al activarse ponen en un segunda cola la caja que posiciono, esta cola va a guardar todas las cajas del lote de tal manera que cuando activemos la señal borrar caja se van a borrar todas las cajas del lote actual y podamos continuar con el siguiente. 
 
+#### Logica de estación
+
+Por ultimo nos vamos a la logica de estación
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/ed1f3229-c012-4332-ae20-671b09c2f40b)
+
+Donde conectaremos las entradas y salidas del SC a salidas y entradas del controlador
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/a309531f-9f30-46fa-ab16-aa5170bce2b4)
 
 
 
