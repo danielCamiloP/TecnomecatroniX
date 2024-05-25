@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T16:52:03.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.2.7" etag="QvYdfONrzxGaMiBCUq0j" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T16:58:18.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="WK8X2VP5N9TmAnb5Xh1w" version="24.2.7" type="github">
   <diagram name="Page-1" id="2ZAIfkSiM7R4ecjNsEXI">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BktIo1aZDj8u9UEi_q8V-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BktIo1aZDj8u9UEi_q8V-1" target="BktIo1aZDj8u9UEi_q8V-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BktIo1aZDj8u9UEi_q8V-1" value="Llenado de arena" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BktIo1aZDj8u9UEi_q8V-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BktIo1aZDj8u9UEi_q8V-4" target="BktIo1aZDj8u9UEi_q8V-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BktIo1aZDj8u9UEi_q8V-4" value="Mover eje x min a max" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BktIo1aZDj8u9UEi_q8V-6" value="&lt;div&gt;Mover Eje y&lt;br&gt;&lt;/div&gt;&amp;nbsp;+20 (hasta " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
