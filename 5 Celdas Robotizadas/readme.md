@@ -222,10 +222,55 @@ https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/c47f2851-4832-4
 
 
 ## AGV 
-para la simulación del AGV se decidio tomar un enfoque similara a los SC, donde se va a generar un modelo 3d del gantry y se va a tratar como un solo solido el gantry y la estiba que lleva, y se usara un camino como banda transportadora, para simular el movimiento del AGV
+para la simulación del AGV se decidio tomar un enfoque similara a los SC, donde se va a generar un modelo 3d del gantry y se va a tratar como un solo solido el gantry y la estiba que lleva, y se usara un camino como banda transportadora, para simular el movimiento del AGV, se colocaria en el camino y se le dara velocidad a la superficie simulando el movimiento.
+
+Se empieza denuevo con el modelo 3D del AGV.
 
 
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/532ca3ed-fb99-4bc1-947b-b227191e1dd7)
 
+Las medidas vienen de las imagenes que se ven arriba para el bloque del AGV y el tamaño de las estibas es el mismo de los diseños 3d que vienen incluidos en robotstudio. El diseño no es tan detallado ya que lo que necesitamos es entender los espacios de trabajo de la celda.
+Luego en robot studio se genera el camino con solo 10mm de alto para que interfiera lo menos posible con el proceso luego a este objeto le habilitamos la velocidad superficial para poder moverlo. 
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/d6c3bac3-0e7a-44bb-9e45-c7bc7c7c7bb3)
+
+Luego importamos el AGV y lo ubicamos donde seria el punto de partida.
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/acc2b143-839c-49c2-a1b8-eca4f41dade0)
+
+Con esto, procedemos a crear un nuevo SC. Para este SC vamos a usar los bloques PhysicsControl, Source, QUEUE y line sensor.
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/21d16369-a560-49b3-8333-b6a266d0dcf8)
+
+
+Primero vamos a ubicar el line sensor, en una posición donde podamos deducir que el agv ya esta listo para ser usado.
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/d4060b3b-6032-49f5-ac5d-bbcec1c1352e)
+
+Luego vamos a generar la logica.
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/43d4005c-d6d1-4893-a120-8f52cbb4a4c3)
+
+
+Vamos a tener 3 entradas digitales que como sus nombres lo indican se van a encargar de prender y apagar la banda, crear y borrar los agv y se tiene una salida digital que nos va a indicar cuando el AGV este en posicion. El sensor de linea solo esta conectado a la salida digital.
+
+La entrada digital controla el bloque de physics control, para darle o quitarle la velocidad al camino, se escogio una velocidad de 1 m/s ya que esta dentro del rango que nos daba el datasheet del agv.
+
+Despues se conecta la entrada crear agv con el bloque source, y cuando este bloque es ejecutado pone al final de la cola el agv que se acabo de crear.
+
+Por ultimo la entrada borrar AGV se conecta con la opcion Delete del bloque queue que borra el frente de la cola que en este caso seria el AGV que hallamos creado hace mas tiempo.
+
+Despues se crean las señales en el controlador y se conectan al SC.
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/057eb382-8f9b-4ddf-b033-70708d85b9ea)
+
+Por ultimo se cre la logica del Rapid, donde se tiene el paletizado y al acabar un paletizado, se crea un nuevo AGV, despues se prende la banda y se espera que el sensor de linea se desactiva implicando que el AGV en el que ya se paletizo, ya salio y despues se espero que se vuelva a activar el sensor implicando que el nuevo AGV ya esta en posicion, cuando ya esta en posicion el nuevo AGV se apaga la velocidad del camino, y se borra el AGV, y las cajas que ya fueron paletizadas y se vuelve a iniciar el ciclo.
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/b7974f69-edbb-4f02-88c5-0e458b461b18)
+
+## Simulación celda gantry+AGV
+
+## Seguridad con el codigo
 
 ## conexión con ignition
 
