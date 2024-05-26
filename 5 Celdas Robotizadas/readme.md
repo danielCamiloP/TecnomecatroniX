@@ -270,7 +270,14 @@ Por ultimo se cre la logica del Rapid, donde se tiene el paletizado y al acabar 
 
 ## Simulación celda gantry+AGV
 
+
+https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/22f66701-7e49-45cc-879f-7aad3a6c8b94
+
+
+
 ## Seguridad con el codigo
+
+
 
 ## conexión con ignition
 
