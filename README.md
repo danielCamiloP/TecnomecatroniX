@@ -7,7 +7,7 @@ Somos *Tecnomecatronix*, un equipo de 7 estudiantes que estamos cursando *Automa
 ## Módulos del proyecto
 #### 1. Gestión de producción y automatización:
   Podrán evidenciar el proceso que llevamos para analizar el proceso que buscamos mejorar.
-#### 2. Industria 4.0 en la automatizacion:
+#### 2. Idustria 4.0 en la automatizacion:
   Presentamos la arquitectura que nos penamos para el desarrollo del proyecto a nivel de toda la pirámide de automatización.
 #### 3. Planeación del proyecto:
   Detallamos como se realizó la planeación del proyecto, y cual fue nuestro resultado final.
