@@ -277,9 +277,21 @@ https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/22f66701-7e49-4
 
 ## Seguridad con el codigo
 
+Dentro de las condiciones de seguridad se integro una interrupción dentro del codigo RAPID, esta interrupcion se anclo a la entrada digital que simula las cortinas laser, por lo que cuando esta entrada se active hara que el robot pare y se necesitara que se apage la salida y que se oprima el boton safe para que el boton continue su funcionamiento normal.
+
+### Simulación interrupción
+
+
+https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/fad1a634-4b4d-4bed-81ab-7fb4522a86ef
+
 
 
 ## conexión con ignition
+Primero se debe descargar la aplicación ABB IRC5 OPC server
+Para la creación de tags en ignition se encontraron dos maneras posibles, la primera es que las entradas y salidas que se definan en el controlador ya crearan sus tags en el servidor OPC y la segunda es declarando variables de rapid como PERS lo que hara que se generen los tags de las mismas, con todo esto se tiene el siguiente resultado de la conexion entre ignition y la celda robotica
+
+
+
 
 
 ## Robotstudio AR
@@ -298,3 +310,12 @@ Luego de esto grabamos la simulación con el boton export viewer en robotstudio.
 
 
 Con esto se genera un archivo .glb que luego se puede descargar desde drive en la app y se puede cargar la simulacion para verla, ya sea a escala real o disminuida en realidad aumentada.
+
+### Simulación AR
+
+
+
+https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/63ebebda-f077-451e-a8d8-d1ad8605087f
+
+
+
