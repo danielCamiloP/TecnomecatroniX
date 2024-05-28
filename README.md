@@ -18,7 +18,7 @@ Somos *Tecnomecatronix*, un equipo de 7 estudiantes que estamos cursando *Automa
 #### 6. Digital Factory:
   Presentamos el proceso para llegar al gemelo digital que elaboramos.
 #### 7. Controladores industriales:
-  Presentamos el proceso y el resultado del diseño y la programacion de los sistemas de control industril empleados.
+  Presentamos el proceso y el resultado del diseño y la programacion de los sistemas de control industrial empleados.
 #### 8. Comunicaciones:
   Describimos las comunicaciones empleadas para toda la arquitectura de automatización del proyecto.
 #### 9. SCADA:
