@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-25102011-102685";"";
+"REFERENCE";"MPL-B1530U-VJ72AA";"";
+"TraceParts.PartTitle";"Frame Size 15 = 63 mm (2.48 in.), Stack Length 30 = 76.2 mm (3.0 in.), 7000 RPM, Circular DIN Connector, Right Angle, 180° Rotatable (Threaded), No Brake, IEC Metric";"";
+"TraceParts.InstanceId";"10-25102011-102685PDMWXF1BYEYJIDEF4CWJ80WD";"";
+"SUPPLIER";"Rockwell Automation";"";
+"DESIGN";"Frame Size 15 = 63 mm (2.48 in.), Stack Length 30 = 76.2 mm (3.0 in.), 7000 RPM, Circular DIN Connector, Right Angle, 180° Rotatable (Threaded), No Brake, IEC Metric";"";
+"TraceParts.PartVersion";"1.1.4";"";
+"TraceParts.PartLanguage";"en";"";
