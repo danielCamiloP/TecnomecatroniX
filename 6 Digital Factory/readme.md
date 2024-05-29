@@ -32,11 +32,24 @@ La volteadora cuenta con dos bandas transportadoras de rodillos, una de entrada 
 
 ## Sistema de bifurcación
 
+
+Se diseñó una lógica para el sistema de bifurcación, el cuál está asociado a un código en grafcet, las baldosas toman un camino según un bit lógico (SelP), de esta manera, van a la dirección deseada y la banda anterior espera a que la banda de bifurcación esté desocupada para continuar el flujo de baldosas.
+
+![bifurcacion](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/d86ab048-e153-4638-915d-e77cfc4fb3ed)
+
 ## Secadora
+
+Se modela un sistema de secado como una caja, en la que entran las baldosas y salen con una velocidad constante.
+![Captura de pantalla 2024-05-29 135722](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/75f57c09-3654-448f-8615-1afe33b354cc)
 
 ## Esmaltadora y Engobe
 
+Se crea el efecto de cambio de aspecto para la esmaltadora y el engobe en cada camino.
+![engobe](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/7a341ae7-3091-4b5d-b8a9-9e9c9fc792e7)
 ## Decoradora
+
+Se modela la decoradora como el funcionamiento que se ve en el video de SACMI. Las baldosas entran y la banda no se detiene.
+![deco](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/042b0fb5-9572-44d7-92c0-e201232fff79)
 
 ## Empaquetadora
 
