@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"50-20072018-119329";"";
+"REFERENCE";"AIW2505-2000";"";
+"TraceParts.PartTitle";"Rolled Ball Screw - Standard Nuts (Diameter25 Lead5.10.25) - AIW/AIY/AIYK";"";
+"TraceParts.InstanceId";"50-20072018-119329E70BYGKU6P5KZ45OSH3VR8O6C";"";
+"SUPPLIER";"Shenzhen Shiruida Automation Equipment Co.,Ltd.";"";
+"DESIGN";"AIW Rolled Ball Screw - Standard Nuts (Diameter25 Lead5.10.25) AIW2505-2000";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.3.5";"";
