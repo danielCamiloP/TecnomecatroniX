@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T16:29:44.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" version="24.4.9" etag="b7Muy4MtulWK5FpjNDAY" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T16:34:06.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="4nReZjt937CkFbpiDTvT" version="24.4.9" type="github">
   <diagram name="Page-1" id="MCrtuxz4ttJPQOkJyFFv">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="c0UiHEnkeNejnyKQK4bY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0UiHEnkeNejnyKQK4bY-1" target="c0UiHEnkeNejnyKQK4bY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0UiHEnkeNejnyKQK4bY-1" value="1. Observar el comportamiento de las máquinas a programar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0UiHEnkeNejnyKQK4bY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0UiHEnkeNejnyKQK4bY-2" target="c0UiHEnkeNejnyKQK4bY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0UiHEnkeNejnyKQK4bY-2" value="2. Esbozar las rutinas empleando el &lt;i&gt;Sequence Editor&lt;/i&gt; del Mecatronics Concept Designer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="150" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0UiHEnkeNejnyKQK4bY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0UiHEnkeNejnyKQK4bY-4" target="c0UiHEnkeNejnyKQK4bY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0UiHEnkeNejnyKQK4bY-4" value="3. Esbozar un diagrama de flujo que muestre los pasos de cada proceso de la máquiina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="284" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0UiHEnkeNejnyKQK4bY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0UiHEnkeNejnyKQK4bY-6" target="c0UiHEnkeNejnyKQK4bY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0UiHEnkeNejnyKQK4bY-6" value="4. Realizar un borrador del GRAFCET a implementar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="410" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0UiHEnkeNejnyKQK4bY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0UiHEnkeNejnyKQK4bY-8" target="c0UiHEnkeNejnyKQK4bY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0UiHEnkeNejnyKQK4bY-8" value="5. Implementar el GRAFCET dentro de Studio5000 como un SFC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="540" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0UiHEnkeNejnyKQK4bY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c0UiHEnkeNejnyKQK4bY-10" target="c0UiHEnkeNejnyKQK4bY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0UiHEnkeNejnyKQK4bY-10" value="6. Corregir los errores que resulten de la implementación" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="680" width="180" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
