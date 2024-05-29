@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-02092019-071003";"";
+"REFERENCE";"SFNUR02505T4DGC0-1100-P0+SS";"";
+"TraceParts.PartTitle";"Ball Screw / SFNU/SFU Series";"";
+"TraceParts.InstanceId";"33-02092019-071003CY6VXZ7UBHK6J4ZSDJ9HBYK1A";"";
+"SUPPLIER";"TBI MOTION TECHNOLOGY CO., LTD.";"";
+"DESIGN";"Ball Screw SFNUR02505T4DGC0-1100-P0+SS";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.3";"";
