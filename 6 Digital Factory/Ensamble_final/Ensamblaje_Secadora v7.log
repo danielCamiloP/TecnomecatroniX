@@ -1,0 +1,236 @@
+﻿STEP to UG
+! INFO-     NX STEP AP214 - V2206.9200
+! INFO-      
+! INFO-     Start of Translation: 28-MAY-2024  9:15:32 AM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\Nicol\OneDrive\Escritorio\APM\Ensamblaje_Secadora v7.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        Ensamblaje_Secadora v7.step
+! SUMMARY-  Date             2024-05-28T09:14:21-05:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v20
+! SUMMARY-  Orig_System      Autodesk Translation Framework v13.14.0.145
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:   2013
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:   3855
+! SUMMARY-  b_spline_curve_with_knots ..................................:      8
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:     46
+! SUMMARY-  cartesian_point ............................................:   9686
+! SUMMARY-  circle .....................................................:   1779
+! SUMMARY-  closed_shell ...............................................:    111
+! SUMMARY-  conical_surface ............................................:     15
+! SUMMARY-  context_dependent_over_riding_styled_item ..................:      1
+! SUMMARY-  context_dependent_shape_representation .....................:     47
+! SUMMARY-  cylindrical_surface ........................................:    555
+! SUMMARY-  direction ..................................................:  10357
+! SUMMARY-  edge_curve .................................................:   4480
+! SUMMARY-  edge_loop ..................................................:   2335
+! SUMMARY-  face_bound .................................................:    322
+! SUMMARY-  face_outer_bound ...........................................:   2013
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     16
+! SUMMARY-  item_defined_transformation ................................:     47
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:   2647
+! SUMMARY-  manifold_solid_brep ........................................:    111
+! SUMMARY-  mapped_item ................................................:      1
+! SUMMARY-  next_assembly_usage_occurrence .............................:     47
+! SUMMARY-  oriented_edge ..............................................:   8960
+! SUMMARY-  plane ......................................................:   1241
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:     15
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:     15
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation ...............................:     15
+! SUMMARY-  product_definition_shape ...................................:     62
+! SUMMARY-  product_related_product_category ...........................:     15
+! SUMMARY-  representation_map .........................................:      1
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:     47
+! SUMMARY-  shape_representation .......................................:     15
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  toroidal_surface ...........................................:    202
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     16
+! SUMMARY-  vector .....................................................:   2647
+! SUMMARY-  vertex_point ...............................................:   2931
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                          56680
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 28-MAY-2024 9:15:32 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:35 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\CONVEYOR_STRUCTURE_R
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              5
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:35 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\conveyors_tb90i-1500-r-1500-p-1-n-28_8
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:36 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\CR-1500
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:36 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\CONVEYOR_STRUCTURE
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:36 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\CR-1500-5m
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:   100
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            100
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:37 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\CONVEYOR_STRUCTURE v2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:37 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\Patitas_2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:37 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\Patitas_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:37 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\Patitas
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:37 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\Estructura_Secadora
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     5
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              6
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:37 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\Conveyor_Rodillos
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    16
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             16
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:37 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\Conveyor_Rodillos_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    16
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             16
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:37 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\Banda_m
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:37 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\Banda_rotadora_secadora
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-MAY-2024  9:15:37 AM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Secadora\Ensamblaje_Secadora v7.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! INFO-      
+! INFO-     Total number of solids input for this translation       :       111
+! INFO-      
+! INFO-     Number of solids created without body validation faults :       111
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 28-MAY-2024  9:15:38 AM
+! INFO-      

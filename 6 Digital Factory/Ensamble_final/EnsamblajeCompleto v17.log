@@ -1,0 +1,1213 @@
+﻿STEP to UG
+! INFO-     NX STEP AP214 - V2206.9200
+! INFO-      
+! INFO-     Start of Translation: 26-MAY-2024  3:53:26 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\Nicol\OneDrive\Escritorio\APM\EnsamblajeCompleto v17.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        EnsamblajeCompleto v17.step
+! SUMMARY-  Date             2024-05-26T15:52:17-05:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v20
+! SUMMARY-  Orig_System      Autodesk Translation Framework v13.14.0.145
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:   5447
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:   8481
+! SUMMARY-  b_spline_curve_with_knots ..................................:   1156
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:    424
+! SUMMARY-  b_spline_surface_with_knots ................................:    124
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:    163
+! SUMMARY-  cartesian_point ............................................: 169582
+! SUMMARY-  circle .....................................................:   2837
+! SUMMARY-  closed_shell ...............................................:     95
+! SUMMARY-  conical_surface ............................................:    191
+! SUMMARY-  context_dependent_over_riding_styled_item ..................:      4
+! SUMMARY-  context_dependent_shape_representation .....................:    290
+! SUMMARY-  cylindrical_surface ........................................:   1335
+! SUMMARY-  direction ..................................................:  27357
+! SUMMARY-  edge_curve .................................................:  14893
+! SUMMARY-  edge_loop ..................................................:   6189
+! SUMMARY-  ellipse ....................................................:     81
+! SUMMARY-  face_bound .................................................:    742
+! SUMMARY-  face_outer_bound ...........................................:   5447
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:    113
+! SUMMARY-  item_defined_transformation ................................:    290
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:  10395
+! SUMMARY-  manifold_solid_brep ........................................:     95
+! SUMMARY-  mapped_item ................................................:      1
+! SUMMARY-  next_assembly_usage_occurrence .............................:    290
+! SUMMARY-  oriented_edge ..............................................:  29786
+! SUMMARY-  plane ......................................................:   3585
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:    112
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:    112
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation ...............................:    112
+! SUMMARY-  product_definition_shape ...................................:    402
+! SUMMARY-  product_related_product_category ...........................:    112
+! SUMMARY-  representation_map .........................................:      1
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:    290
+! SUMMARY-  shape_representation .......................................:    112
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  spherical_surface ..........................................:     24
+! SUMMARY-  toroidal_surface ...........................................:     25
+! SUMMARY-  uncertainty_measure_with_unit ..............................:    113
+! SUMMARY-  vector .....................................................:  10395
+! SUMMARY-  vertex_point ...............................................:   9708
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         310917
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 26-MAY-2024 3:53:29 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:09 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Componente4
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:09 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Componente2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:09 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Pieza2^Conveyor_2500_Como mecanizada_
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:09 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Pieza3^Conveyor
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:09 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Pieza4^Conveyor
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:09 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Pieza5^Conveyor
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:09 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\2342K171_Permanently Lubricated Ball Bearing_2342K171
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:    27
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             27
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:09 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\6660N48_AC Gearmotor_6660N48
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:    25
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             25
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:12 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Pieza6^Conveyor
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:12 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Pieza2^Conveyor_440_Como mecanizada_
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:12 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Pieza7^Conveyor_Predeterminado_Como mecanizada_
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:12 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Pieza8^Conveyor
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:12 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Pieza9^Conveyor
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:12 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE v2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:12 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Componente1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              0
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:12 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:13 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\conveyors_tb90i-4900-r-1500-p-1-n-28_8_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:13 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\conveyors_tb90i-1500-r-1500-p-1-n-28_8
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:13 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_0
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:13 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_R
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              5
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:14 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\TILE 30X60
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:14 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\conveyors_tb90i-4900-r-1500-p-1-n-28_8
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:14 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:14 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Inductive_Proximity_Nut_Fastener v3
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:14 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Inductive_Proximity_Washer v2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:14 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Inductive Proximity Sensor LJ12A3-4-Z_BX v4
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              4
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda2_1_3
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda2_1_2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda2_1_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda2_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_m_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_rotadora_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_m
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_rotadora
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Ensamblaje_convDivert
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     7
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda2_1_7
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda2_1_6
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda2_1_5
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda2_1_4
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:15 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_m_4
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_rotadora_4
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_m_3
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_rotadora_3
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Ensamblaje_convMerge
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     7
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_8
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_10
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_11
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Estructura_Principal_2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     4
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              5
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_m_2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_rotadora_2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\ProxSensor_3
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\ProxSensor_2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Ensamblaje_decoradora
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              8
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_12
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_13
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_14
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_15
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Horno
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     4
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              5
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda2_1_9
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda2_1_8
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_m_6
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_rectificadora_horno
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:16 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_m_5
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Banda_rotadora_5
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Ensamblaje_horno
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     6
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              6
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_B v2_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_B v2 (1)_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Structure_doubleR_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_B v2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_B v2 (1)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Structure_doubleR
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Componente12
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    41
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             41
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Double Track Conveyor
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\ProxSensor
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_3
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Estructura_Principal
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     5
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              6
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Ensamblaje_esmaltadora
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_B v2_3
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_B v2 (1)_3
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Structure_doubleR_3
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_B v2_2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:17 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_B v2 (1)_2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Structure_doubleR_2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Componente12_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    41
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             41
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Double Track Conveyor_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\ProxSensor_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_4
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_5
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_6
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_7
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Estructura_Principal_1
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     5
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              6
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Ensamblaje_engobe
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_B v2_5
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_B v2 (1)_5
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Structure_doubleR_5
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_B v2_4
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\CONVEYOR_STRUCTURE_B v2 (1)_4
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Structure_doubleR_4
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Componente12_2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    41
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             41
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Double Track Conveyor_2
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_16
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_17
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_18
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Patitas_19
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:18 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Estructura_QC
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     4
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              5
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:19 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\Ensamblaje_QC
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     2
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              2
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-MAY-2024  3:56:19 PM
+! INFO-     Filing Part ..: C:\Users\Nicol\OneDrive\Escritorio\APM\NX_Simus\EnsamblajeCompleto v17.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              8
+! INFO-      
+! INFO-     Total number of solids input for this translation       :        96
+! INFO-      
+! INFO-     Number of solids created without body validation faults :        96
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 26-MAY-2024  3:56:20 PM
+! INFO-      
