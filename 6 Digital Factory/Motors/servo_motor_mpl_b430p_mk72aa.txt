@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-25102011-102685";"";
+"REFERENCE";"MPL B430P MK72AA";"";
+"TraceParts.PartTitle";"Frame Size 4 = 115 mm (4.53 in.), Stack Length 30 = 76.2 mm (3.0 in.), 5000 RPM. Keyless Shaft Extension, SpeedTEC DIN Connector, Right Angle, 180° Rotatable (Quick Connect), No Brake, IEC Metric";"";
+"TraceParts.InstanceId";"10-25102011-1026851L2DQJNGXKK93QXL5IG4ZCO50";"";
+"SUPPLIER";"Rockwell Automation";"";
+"DESIGN";"Frame Size 4 = 115 mm (4.53 in.), Stack Length 30 = 76.2 mm (3.0 in.), 5000 RPM. Keyless Shaft Extension, SpeedTEC DIN Connector, Right Angle, 180° Rotatable (Quick Connect), No Brake, IEC Metric";"";
+"TraceParts.PartVersion";"1.1.4";"";
+"TraceParts.PartLanguage";"en";"";
