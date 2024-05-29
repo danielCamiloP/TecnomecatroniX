@@ -293,6 +293,10 @@ Para la creación de tags en ignition se encontraron dos maneras posibles, la pr
 
 
 
+https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/af416179-0bd2-4a48-af30-2b0894701d8e
+
+
+
 
 ## Robotstudio AR
 

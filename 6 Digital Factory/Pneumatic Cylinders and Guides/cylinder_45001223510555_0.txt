@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-31102002-070508";"";
+"REFERENCE";"45001223510555";"";
+"STANDARD";"ISO 15552, AFNOR NF ISO 15552, DIN ISO 15552, ISO 6431, AFNOR NFE 49003, VDMA 24562";"";
+"TraceParts.PartTitle";"Double acting cylinder Ø 32 to 200 mm - 450 series - type PES (with tie rods) with rod seal only of FPM";"";
+"TraceParts.InstanceId";"10-31102002-070508CBIB3JD51C785F3IUZ06YAQKU";"";
+"SUPPLIER";"ASCO";"";
+"DESIGN";"PES cylinder with FPM rod seal, tie-rods, barrel aluminium, single rod, cushioned, equipped for detectors, bore 160 mm, stroke 50 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.7.5";"";

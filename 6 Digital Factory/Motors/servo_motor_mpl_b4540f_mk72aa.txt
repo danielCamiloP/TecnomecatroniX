@@ -1,0 +1,9 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-25102011-102685";"";
+"REFERENCE";"MPL B4540F MK72AA";"";
+"TraceParts.PartTitle";"Frame Size 45 = 130 mm (5.12 in.), Stack Length 40 = 101.6 mm (4.0 in.), 3000 RPM. Keyless Shaft Extension, SpeedTEC DIN Connector, Right Angle, 180° Rotatable (Quick Connect), No Brake, IEC Metric";"";
+"TraceParts.InstanceId";"10-25102011-10268584Q7K2YDBS69VHUMW4X68P2I";"";
+"SUPPLIER";"Rockwell Automation";"";
+"DESIGN";"Frame Size 45 = 130 mm (5.12 in.), Stack Length 40 = 101.6 mm (4.0 in.), 3000 RPM. Keyless Shaft Extension, SpeedTEC DIN Connector, Right Angle, 180° Rotatable (Quick Connect), No Brake, IEC Metric";"";
+"TraceParts.PartVersion";"1.1.4";"";
+"TraceParts.PartLanguage";"en";"";

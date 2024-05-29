@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"SHS15 LV 1 SS + 160L";"";
+"TraceParts.PartVersion";"1.1.3";"";
+"SUPPLIER";"THK";"";
+"MASS";"0.428";"kg";
+"TraceParts.PartNumber";"10-08102015-095416";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Linear guide SHS15LV type, 1 block(s), Without QZ lubricator, SS - With end, side, inner seals, Preload type: normal clearance, Rail length: 160 mm, Accuracy grade: Normal grade, Symmetric G dimension: G=20mm";"";
+"TraceParts.InstanceId";"10-08102015-0954163ROX1Q1YJ9TU72GIMF14B13FD";"";
+"TraceParts.PartTitle";"Caged Ball LM Guide Global Standard Size Model SHS-LV";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"THK:/F_THK/THK.03/THK.03001/THK.03001001/10-08102015-095416";"";
+"TraceParts.PartStatus";"Published";"";

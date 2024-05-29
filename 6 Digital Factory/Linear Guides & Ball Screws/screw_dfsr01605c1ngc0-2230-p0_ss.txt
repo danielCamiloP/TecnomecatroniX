@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-05092019-058428";"";
+"REFERENCE";"DFSR01605C1NGC0-2230-P0+SS";"";
+"TraceParts.PartTitle";"Ball Screw / DFS Series";"";
+"TraceParts.InstanceId";"33-05092019-0584285PB5U84RIQHG4AWJNNE3DDG8P";"";
+"SUPPLIER";"TBI MOTION TECHNOLOGY CO., LTD.";"";
+"DESIGN";"Ball Screw DFSR01605C1NGC0-2230-P0+SS";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";
