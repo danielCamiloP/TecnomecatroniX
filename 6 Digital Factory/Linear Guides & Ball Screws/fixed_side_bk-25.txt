@@ -1,0 +1,13 @@
+"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-06082019-054425";"";
+"REFERENCE";"BK-25 ";"";
+"TraceParts.PartTitle";"Fixed Side / BK Series, Square Type";"";
+"TraceParts.InstanceId";"33-06082019-05442518UKQ0UP919HIQU3JV3PWQFAD";"";
+"DESIGN";"Fixed Side BK-25 ";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"TBI MOTION TECHNOLOGY CO., LTD.";"";
+"TraceParts.PartVersion";"1.0.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TBI_MOTION:33-06082019-054425";"";
