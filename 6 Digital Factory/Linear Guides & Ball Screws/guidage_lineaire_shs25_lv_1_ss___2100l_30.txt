@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-08102015-095416";"";
+"REFERENCE";"SHS25 LV 1 SS + 2100L";"";
+"TraceParts.PartVersion";"1.1.3";"";
+"TraceParts.InstanceId";"10-08102015-0954166CH82IM0FDLAXH815O5G7ECGF";"";
+"TraceParts.PartTitle";"Caged Ball LM Guide Global Standard Size Model SHS-LV";"";
+"SUPPLIER";"THK";"";
+"DESIGN";"Linear guide SHS25LV type, 1 block(s), Without QZ lubricator, SS - With end, side, inner seals, Preload type: normal clearance, Rail length: 2100 mm, Accuracy grade: Normal grade, Symmetric G dimension: G=30mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"7.39";"";
