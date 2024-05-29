@@ -1,0 +1,10 @@
+"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-22042010-075514";"";
+"REFERENCE";"452500010050 010754";"";
+"TraceParts.PartTitle";"'U' guiding unit with 4 slide bearings suitable for cylinder ISO 15552-AFNOR-DIN, Ø 32 to 100 mm - 452 series - Type PLS-DM (with profiled barrel)";"";
+"TraceParts.InstanceId";"10-22042010-075514CH04KBA6VC8J3V6LU92GADS3F";"";
+"SUPPLIER";"ASCO";"";
+"DESIGN";"'U' guiding unit with 4 slide bearings suitable for cylinder ISO 15552-AFNOR-DIN, Ø 32 to 100 mm - 452 series - Type PLS-DM (with profiled barrel), alésage de 100 mm, course de 50 mm, Rod in Hard chrome plated steel";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.3.5";"";
