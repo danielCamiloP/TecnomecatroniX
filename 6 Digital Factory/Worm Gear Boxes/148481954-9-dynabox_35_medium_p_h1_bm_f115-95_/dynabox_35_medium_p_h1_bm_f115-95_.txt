@@ -1,0 +1,10 @@
+"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-27032017-073144";"";
+"REFERENCE";"DYNABOX 35 Medium P H1 BM(F115-95)";"";
+"TraceParts.PartTitle";"DYNABOX";"";
+"TraceParts.InstanceId";"10-27032017-0731446HEXFMYOFVAJ0HUKKZYVAYTD1";"";
+"SUPPLIER";"GIRARD TRANSMISSIONS";"";
+"DESIGN";"Right angle servo gearhead, size: 35, Medium output torsional backlash, output option: P : Single output shaft, mounting position: H1, option: BM-F115/95";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.3";"";
