@@ -1,0 +1,10 @@
+"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-27032017-073144";"";
+"REFERENCE";"DYNABOX 45 Medium P H1 BM(F165-110)";"";
+"TraceParts.PartTitle";"DYNABOX";"";
+"TraceParts.InstanceId";"10-27032017-0731449IHKB33QRU4IZA9I66XZVO20U";"";
+"SUPPLIER";"GIRARD TRANSMISSIONS";"";
+"DESIGN";"Right angle servo gearhead, size: 45, Medium output torsional backlash, output option: P : Single output shaft, mounting position: H1, option: BM-F165/110";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.3";"";
