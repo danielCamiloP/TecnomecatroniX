@@ -4,8 +4,7 @@ El desarrollo del proyecto relevante a controladores industriales, corresponde a
 
 ![DiagramaDeFlujo_Modulo7 drawio](https://github.com/danielCamiloP/TecnomecatroniX/assets/37418973/b46ffb5b-81d6-4a88-8cf1-6a6a4111888c)
 
-Con esta metodología pudimos llegar a las subrutinas del programa para el PLC que controla toda la simulación de fábrica digital, las cuales se presentan en el documento Pdf a continuación:
-<embed src="RutinasPLC.pdf" width="800px" height="2100px"/>
-
+Con esta metodología pudimos llegar a las subrutinas del programa para el PLC que controla toda la simulación de fábrica digital, las cuales se presentan en el documento [RutinasPLC.pdf](./RutinasPLC.pdf).
+Se recomienda descargar el archivo y emplear el zoom para visualizar los GRAFCET, dado que por su tamaño la única forma de visualizarlos es emplear este método.
 
 En la carpeta ProgramaStudio5000 se encuentra el programa definitivo usado para la simulación de la planta en NX.
