@@ -29,6 +29,9 @@ Para la implementacion de la celda se identificaron las siguientes fuentes de ri
 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/c8d748d5-91f3-40f4-aa44-31be357bc690)
 
+Luego de esto se desarrollo la matriz de riesgos de riesgos comparando antes y despues de siguiendo la IEC62061
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/3c26620c-d0d9-4b87-8b96-0fdc5bdf0467)
 
 
 ## Plano de planta
