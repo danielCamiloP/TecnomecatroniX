@@ -23,9 +23,16 @@ Se inicia con la siguiente hoja de ruta para la creación de la celda.
 Se define el WS1 como la banda transportadora, el WS2 como las estibas donde se colocaran las cajas y el WS3 son las rutas donde transitaran los agvs
 
 
-## Elementos de seguridad a considerar
-Como primera medida, se considerarán cortinas láser para evitar el ingreso de personal al área de trabajo mientras se encuentre en operación el sistema. Adicionalmente se considerarán alarmas y luces indicativas para señalizar el estado del proceso, teniendo en cuenta los estados de parada, alistamiento, ejecución, y falla. 
-Con esto se genera el siguiente plano de planta de la celda robotica:
+## Analisis de riesgos
+
+Para la implementacion de la celda se identificaron las siguientes fuentes de riesgo
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/c8d748d5-91f3-40f4-aa44-31be357bc690)
+
+
+
+## Plano de planta
+luego de las consideraciones de seguridad, se obtiene el siguiente plano de planta.
 
 ![Celda robotica plano](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/3f03b6f2-6cc8-4ec6-8659-2c04832ef531)
 
