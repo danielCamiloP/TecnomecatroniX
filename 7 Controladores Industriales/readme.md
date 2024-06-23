@@ -14,5 +14,7 @@ En la carpeta ProgramaStudio5000 se encuentra el programa definitivo usado para 
 
 ## Volteadoea Grafcet
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/efa7e8bb-0553-4647-b4af-b24f84410c5f)
+## Celda robotica Grafcet
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/aa4df83e-5c0d-4953-bc1b-9d93a2d1bc8e)
 
 
