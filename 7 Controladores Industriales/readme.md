@@ -8,3 +8,6 @@ Con esta metodología pudimos llegar a las subrutinas del programa para el PLC q
 Se recomienda descargar el archivo y emplear el zoom para visualizar los GRAFCET, dado que por su tamaño la única forma de visualizarlos es emplear este método.
 
 En la carpeta ProgramaStudio5000 se encuentra el programa definitivo usado para la simulación de la planta en NX.
+
+## Prensa Grafcet
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/c24f8f98-76b5-44d0-b957-9e41244eecfc)
