@@ -10,6 +10,15 @@ Se recomienda descargar el archivo y emplear el zoom para visualizar los GRAFCET
 En la carpeta ProgramaStudio5000 se encuentra el programa definitivo usado para la simulación de la planta en NX.
 
 ## Prensa Grafcet
+El programa de control para la prensa inicia con la activación de un comando "startPress", dando inicio al ciclo de producción. En primer lugar, el sistema retrae el actuador encargado de sacar las baldosas prensadas hacia la banda transportadora, preparando así la estación para un nuevo ciclo.
+
+Durante el proceso, dos operaciones críticas se llevan a cabo en paralelo: por un lado, la prensa aplica la fuerza necesaria sobre las baldosas en el molde y posteriormente un actuador se eleva para levantar las baldosas ya prensadas. Este paso asegura que las piezas adquieran la forma deseada y se preparen para el siguiente paso del proceso.
+
+Mientras tanto, otro sistema comienza a llenar el molde con polvo de arcilla mediante actuadores lineales, asegurando una distribución uniforme del material. Una vez completados estos dos procesos, el primer actuador vuelve a entrar en acción para extraer las baldosas prensadas y levantadas hacia la banda transportadora, concluyendo así un ciclo de producción, quedando preparado para el siguiente.
+
+Para una visualización clara y detallada del proceso de control, se incluyen dos elementos visuales esenciales:
+
+Diagrama de Flujo: Este diagrama representa gráficamente el flujo secuencial del programa de control de la prensa. 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/d995cada-a3ae-4b7f-89f6-651393f9d5c4)
 
 ## Volteadoea Grafcet
