@@ -22,6 +22,15 @@ Diagrama de Flujo: Este diagrama representa gráficamente el flujo secuencial de
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/d995cada-a3ae-4b7f-89f6-651393f9d5c4)
 
 ## Volteadoea Grafcet
+El ciclo de operación de la volteadora se inicia con la activación de un comando "start", lo que enciende los rodillos de la máquina para el transporte de las baldosas. A continuación, el sistema bifurca el flujo de trabajo usando una operación OR: si la volteadora se encuentra en posición 0°, las baldosas activarán el sensor 1 al pasar por la posición correcta. Por otro lado, si la volteadora está en posición 180°, las baldosas activarán el sensor 2.
+
+Posteriormente los rodillos de la volteadora se detienen temporalmente para permitir que las baldosas se posicionen adecuadamente según la detección del sensor correspondiente. Acto seguido, los actuadores lineales entran en acción para aplicar presión sobre las baldosas, asegurando un contacto firme y uniforme en su lugar de trabajo.
+
+Un actuador rotacional entonces gira las baldosas 180° en una dirección específica, dependiendo de la posición inicial detectada por los sensores
+
+Finalmente, se reactivan los rodillos de la volteadora para permitir que las baldosas continúen su trayectoria hacia la fase siguiente del proceso.
+
+Diagrama de Flujo: Este diagrama representa gráficamente el flujo secuencial del programa de control de la volteadora. 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/efa7e8bb-0553-4647-b4af-b24f84410c5f)
 ## Celda robotica Grafcet
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/aa4df83e-5c0d-4953-bc1b-9d93a2d1bc8e)
