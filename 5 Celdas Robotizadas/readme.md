@@ -34,7 +34,7 @@ Luego de esto se desarrollo la matriz de riesgos de riesgos comparando antes y d
 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/3c26620c-d0d9-4b87-8b96-0fdc5bdf0467)
 
-### mitigacion de riesgos
+### MitigaciÓn de riesgos
 
 Se planean implementar las siguientes acciones para la mitigación de riesgos
 
@@ -50,6 +50,9 @@ Luego de aplicar las mitigaciones de riesgos se obtuvo la nueva matriz de riesgo
 
 ### Comparación
 
+Por ultimo se realiza la comparaci'on de las clasificaciones de riesgo, se pueden ver disminuciones significativas.
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/3f857d22-3046-4d04-b3e3-3ff999d0c0ff)
 
 
 
