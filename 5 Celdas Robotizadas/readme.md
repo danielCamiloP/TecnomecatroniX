@@ -41,7 +41,14 @@ Se planean implementar las siguientes acciones para la mitigación de riesgos
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/89b32b6e-d960-40fd-a15c-89b3a7084761)
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/14a0c63f-e5af-4664-b72b-1305ad81cb29)
 
-### 
+### Matriz de riesgos posterior
+
+Luego de aplicar las mitigaciones de riesgos se obtuvo la nueva matriz de riesgos
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/82dbcedf-9d7a-4ad7-b074-573d78a604ef)
+
+
+### Comparación
 
 
 
