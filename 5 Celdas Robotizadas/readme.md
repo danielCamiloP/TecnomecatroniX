@@ -12,7 +12,6 @@ Se inicia con la siguiente hoja de ruta para la creación de la celda.
 
 
 
-
 ## Propuesta de distribución de celda
 
 
@@ -31,7 +30,20 @@ Para la implementacion de la celda se identificaron las siguientes fuentes de ri
 
 Luego de esto se desarrollo la matriz de riesgos de riesgos comparando antes y despues de siguiendo la IEC62061
 
+### Matriz de riesgos previa
+
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/3c26620c-d0d9-4b87-8b96-0fdc5bdf0467)
+
+### mitigacion de riesgos
+
+Se planean implementar las siguientes acciones para la mitigación de riesgos
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/89b32b6e-d960-40fd-a15c-89b3a7084761)
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/14a0c63f-e5af-4664-b72b-1305ad81cb29)
+
+### 
+
+
 
 
 ## Plano de planta
