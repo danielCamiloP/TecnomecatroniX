@@ -12,3 +12,7 @@ En la carpeta ProgramaStudio5000 se encuentra el programa definitivo usado para 
 ## Prensa Grafcet
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/d995cada-a3ae-4b7f-89f6-651393f9d5c4)
 
+## Volteadoea Grafcet
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/efa7e8bb-0553-4647-b4af-b24f84410c5f)
+
+
