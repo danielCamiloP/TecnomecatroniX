@@ -34,8 +34,9 @@ Finalmente, podemos observar algunas alarmas,como la activacion de la prensa, la
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/e2a2fc1c-fca3-416f-984d-1a7a4dcae6c3)
 
 
+Ademas se realizo la implementacion de los historicos de 6 señales, las cuales fueron, tiempó de funcionamiento de la prensa, tiempó de funcionamiento de la voltradora, tiempó de funcionamiento de la celda, cantidad de baldosas volteadas, cantidad de baldosas prensadas y tiempo de paradas de emergencia.  
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/35b28152-3e59-4019-8aa0-7cf287ed6559)
 
-![historicos](https://github.com/danielCamiloP/TecnomecatroniX/assets/49196698/d68425c7-f450-4ece-8733-ba05b859dffd)
 
 
 El link a la interfaz está alojado en: (http://ignition-cloud-apm.dwgsfugwegg6g6hc.eastus.azurecontainer.io:8088/data/perspective/client/Ignition_nube)
