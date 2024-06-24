@@ -15,6 +15,13 @@ En la volteadora podemos supervisar estados como la activacion de la volteadora,
 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/18c09e45-7161-43f2-98c6-5174f0ff2f6d)
 
+
+En la estacion de emsalte y engobe podemos supervisar estados como la activacion de la volteadora, ademas de poder controlar desde el scada la direccion de las baldosas.
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/18486b3c-5929-4461-8269-3207f922d4fe)
+
+
+
 Finalmente, podemos observar datos historizados y datos de alarma, que nos permite tener el estado de la planta.
 
 ![alarmas](https://github.com/danielCamiloP/TecnomecatroniX/assets/49196698/e045a114-6122-4df4-9e5a-87b58cf34aa7)
