@@ -57,7 +57,9 @@ El diagrama de flujo planteado se observa a continuación.
 
 ![Captura de pantalla 2024-06-23 222909](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/2f892763-16a1-4d98-89ef-637a50b926c4)
 
+## Esmalte y engobe
 
+## Unión 
 
 ## Celda robotica 
 
