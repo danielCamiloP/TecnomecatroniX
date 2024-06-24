@@ -51,6 +51,12 @@ Dado que el proceso dentro de la secadora se simuló como un movimiento continuo
 
 ## Bifurcación
 
+El diagrama de flujo planteado se observa a continuación.
+
+![Captura de pantalla 2024-06-23 232634](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/ce79226f-da9f-47fc-8ade-2be385d8f9b9)
+
+![Captura de pantalla 2024-06-23 222909](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/2f892763-16a1-4d98-89ef-637a50b926c4)
+
 
 
 ## Celda robotica 
