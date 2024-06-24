@@ -9,7 +9,10 @@ Se recomienda descargar el archivo y emplear el zoom para visualizar los GRAFCET
 
 En la carpeta ProgramaStudio5000 se encuentra el programa definitivo usado para la simulación de la planta en NX.
 
+A continuación se explicará las rutinas implementadas en el gemelo digital:
+
 ## Prensa Grafcet
+
 El programa de control para la prensa inicia con la activación de un comando "startPress", dando inicio al ciclo de producción. En primer lugar, el sistema retrae el actuador encargado de sacar las baldosas prensadas hacia la banda transportadora, preparando así la estación para un nuevo ciclo.
 
 Durante el proceso, dos operaciones críticas se llevan a cabo en paralelo: por un lado, la prensa aplica la fuerza necesaria sobre las baldosas en el molde y posteriormente un actuador se eleva para levantar las baldosas ya prensadas. Este paso asegura que las piezas adquieran la forma deseada y se preparen para el siguiente paso del proceso.
@@ -25,7 +28,8 @@ GRAFCET desde Studio 5000: El GRAFCET generado desde el entorno de desarrollo St
 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/e467dafc-a84e-4ea5-8b32-8c6bda985e01)
 
-## Volteadoea Grafcet
+## Volteadora Grafcet
+
 El ciclo de operación de la volteadora se inicia con la activación de un comando "start", lo que enciende los rodillos de la máquina para el transporte de las baldosas. A continuación, el sistema bifurca el flujo de trabajo usando una operación OR: si la volteadora se encuentra en posición 0°, las baldosas activarán el sensor 1 al pasar por la posición correcta. Por otro lado, si la volteadora está en posición 180°, las baldosas activarán el sensor 2.
 
 Posteriormente los rodillos de la volteadora se detienen temporalmente para permitir que las baldosas se posicionen adecuadamente según la detección del sensor correspondiente. Acto seguido, los actuadores lineales entran en acción para aplicar presión sobre las baldosas, asegurando un contacto firme y uniforme en su lugar de trabajo.
@@ -43,6 +47,7 @@ GRAFCET desde Studio 5000: El GRAFCET generado desde el entorno de desarrollo St
 
 
 ## Celda robotica Grafcet
+
 El ciclo de operación de la celda robotizada comienza con la espera de una señal de "ready", indicando que el sistema está listo para recibir las cajas a paletizar. Una vez recibida esta señal, la celda robotizada espera la llegada de un AGV (Vehículo Guiado Automáticamente) que transporta las cajas hacia la estación de paletizado.
 
 Una vez que el AGV y las cajas llegan a la posición adecuada, la celda robotizada procede a paletizar las cajas según un número predeterminado que indica cuántas cajas deben ser colocadas en cada palet.
