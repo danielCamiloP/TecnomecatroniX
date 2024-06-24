@@ -20,6 +20,10 @@ En la estacion de emsalte y engobe podemos supervisar estados como la activacion
 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/18486b3c-5929-4461-8269-3207f922d4fe)
 
+En la estacion de control de calidad podemos supervisar estados como la activacion de la estacion y el momento en el que hay una baldosa defectuosa.
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/d9697f39-1cf8-41d6-8b21-5e5fb2fa1a57)
+
 
 
 Finalmente, podemos observar datos historizados y datos de alarma, que nos permite tener el estado de la planta.
