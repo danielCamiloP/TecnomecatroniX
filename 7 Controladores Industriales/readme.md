@@ -73,10 +73,16 @@ Los procesos de esmalte y engobe son procesos continuos donde las máquinas siem
 
 ## Unión 
 
+El diagrama de flujo planteado se observa a continuación:
+
 ![Diagrama_Union](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/f46302ac-a724-4f5f-b0ed-c8f04f31051d)
+
+Y el correspondiente programa en Grafcet:
 
 ![Captura de pantalla 2024-06-24 094142](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/ce8bbe63-d819-42c9-87db-5f6c7921411d)
  engobe
+
+El diagrama de flujo comienza con la activación de BDer, BIzq y B_unión en X, seguido de una espera para la activación de SDer o SIzq. Si SIzq se activa primero, se espera 3 segundos y luego se verifica si SDer se activa; si es así, se apaga BDer para evitar que lleguen baldosas de ambos caminos, y si no, se espera hasta que SIzq se apague significando que la banda de unión ya está desocupada y puede permitir el paso de otra tanda de baldosas. Si SDer se activa primero, se enciende B_unión en Y, se espera 2 segundos para que las baldosas entren por completo en la banda de unión y se apaga BDer para evitar posibles colisiones. Posteriormente, si SIzq se activa, se apaga BIzq para evitar el flujo de baldosas por ambos caminos; de lo contrario, se espera la activación de SUnión. Si SUnión se activa, significa que las baldosas ya están en la banda de unión, entonces se enciende BUnion en X y se espera 2.5 segundos para que las baldosas se retiren de la banda de unión. El proceso sigue este ciclo, volviendo a esperar a la llegada de baldosas por medio de SDer y SIzq.
 
 ## Decoradora y horno
 
