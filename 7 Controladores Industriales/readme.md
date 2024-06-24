@@ -11,7 +11,7 @@ En la carpeta ProgramaStudio5000 se encuentra el programa definitivo usado para 
 
 A continuación se explicará las rutinas implementadas en el gemelo digital:
 
-## Prensa Grafcet
+## Prensa 
 
 El programa de control para la prensa inicia con la activación de un comando "startPress", dando inicio al ciclo de producción. En primer lugar, el sistema retrae el actuador encargado de sacar las baldosas prensadas hacia la banda transportadora, preparando así la estación para un nuevo ciclo.
 
@@ -28,7 +28,7 @@ GRAFCET desde Studio 5000: El GRAFCET generado desde el entorno de desarrollo St
 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/e467dafc-a84e-4ea5-8b32-8c6bda985e01)
 
-## Volteadora Grafcet
+## Volteadora
 
 El ciclo de operación de la volteadora se inicia con la activación de un comando "start", lo que enciende los rodillos de la máquina para el transporte de las baldosas. A continuación, el sistema bifurca el flujo de trabajo usando una operación OR: si la volteadora se encuentra en posición 0°, las baldosas activarán el sensor 1 al pasar por la posición correcta. Por otro lado, si la volteadora está en posición 180°, las baldosas activarán el sensor 2.
 
@@ -45,8 +45,15 @@ GRAFCET desde Studio 5000: El GRAFCET generado desde el entorno de desarrollo St
 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/456984ba-c78a-435f-bf4e-0f7d7e109eb6)
 
+## Secadora
 
-## Celda robotica Grafcet
+Dado que el proceso dentro de la secadora se simuló como un movimiento continuo a través de la máquina, no se realizó una rutina Grafcet como tal, sino solo el control directo de la banda transportadora que atraviesa esta máquina.
+
+## Bifurcación
+
+
+
+## Celda robotica 
 
 El ciclo de operación de la celda robotizada comienza con la espera de una señal de "ready", indicando que el sistema está listo para recibir las cajas a paletizar. Una vez recibida esta señal, la celda robotizada espera la llegada de un AGV (Vehículo Guiado Automáticamente) que transporta las cajas hacia la estación de paletizado.
 
