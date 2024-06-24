@@ -55,7 +55,17 @@ El diagrama de flujo planteado se observa a continuación.
 
 ![Captura de pantalla 2024-06-23 232634](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/ce79226f-da9f-47fc-8ade-2be385d8f9b9)
 
+Y el código grafcet implementado:
+
 ![Captura de pantalla 2024-06-23 222909](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/2f892763-16a1-4d98-89ef-637a50b926c4)
+
+El código es para hacer una bifurcación de dos caminos de bandas transportadoras para una línea de cerámicas,
+
+El paso inicial es activar la banda B1 y B2A y desactivar B2B, a partir de esto, por la banda B1 va a venir las tandas de 4 baldosas, el sensor S1 detectará el paso de las baldosas, como son tandas de 4, estará asociado un contador (C1) que contará hasta 4, (cuenta por la activación del sensor), al contar hasta 4 el sistema sabrá que pasó la primera tanda, entonces al activarse S2 y S1 al tiempo, se para la banda B1 y se activa la banda B2 en la dirección definida por el bit P (si es 1 va por un camino, se es 0 va por el otro).
+
+Si va por el camino B2B, entonces la banda B1 permanecerá apagada hasta que el S2 se apague, es decir, hasta que la banda B2 esté libre y así poder reactivar B1 para el paso de la siguiente tanda.
+
+Si el camino va por B2A, entonces la banda B1 permanecerá apagada hasta que el contador C2 asociado a S2 cuente 4 baldosas, significando que las 4 baldosas ya pasaron por la banda B2, es decir que esta ya está libre para el paso de las siguientes baldosas.
 
 ## Esmalte y engobe
 
