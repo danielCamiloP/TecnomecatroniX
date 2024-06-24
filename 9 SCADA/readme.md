@@ -2,8 +2,8 @@
 
 Como parte final de nuestro proyecto, hemos implementado un sistema SCADA para optimizar los procesos de manufactura de nuestra propuesta para planta de producción de cerámica. Este sistema integra sistemas basados en HMI, Azure e Ignition para monitoreo, supervisión y control industrial.
 
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/c75cc323-2d21-48d2-b50c-53a746bd0152)
 
-![scada](https://github.com/danielCamiloP/TecnomecatroniX/assets/49196698/43543c5e-bb55-4aba-9a57-9a8e4f4c212f)
 
 En esta interfaz podemos navegar a través de los botones del lado izquierdo, además de previsualizar alarmas en la parte inferior. Como vemos, en estos momentos solo se tiene activada la prensa, si accedemos a cada monitoreo de la máquina podemos ver el estado de cada máquina.
 
