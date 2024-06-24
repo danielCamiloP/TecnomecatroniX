@@ -59,7 +59,20 @@ El diagrama de flujo planteado se observa a continuación.
 
 ## Esmalte y engobe
 
+Los procesos de esmalte y engobe son procesos continuos donde las máquinas siempre están prendidas y las baldosas solo pasan por allí, así como en la secadora, para estos no se realiza un programa de Grafcet.
+
 ## Unión 
+
+![Diagrama_Union](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/f46302ac-a724-4f5f-b0ed-c8f04f31051d)
+
+![Captura de pantalla 2024-06-24 094142](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/ce8bbe63-d819-42c9-87db-5f6c7921411d)
+ engobe
+
+## Decoradora 
+
+## Horno
+
+## Control de calidad
 
 ## Celda robotica 
 
