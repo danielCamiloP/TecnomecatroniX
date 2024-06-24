@@ -21,6 +21,10 @@ Para una visualización clara y detallada del proceso de control, se incluyen do
 Diagrama de Flujo: Este diagrama representa gráficamente el flujo secuencial del programa de control de la prensa. 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/d995cada-a3ae-4b7f-89f6-651393f9d5c4)
 
+GRAFCET desde Studio 5000: El GRAFCET generado desde el entorno de desarrollo Studio 5000 
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/e467dafc-a84e-4ea5-8b32-8c6bda985e01)
+
 ## Volteadoea Grafcet
 El ciclo de operación de la volteadora se inicia con la activación de un comando "start", lo que enciende los rodillos de la máquina para el transporte de las baldosas. A continuación, el sistema bifurca el flujo de trabajo usando una operación OR: si la volteadora se encuentra en posición 0°, las baldosas activarán el sensor 1 al pasar por la posición correcta. Por otro lado, si la volteadora está en posición 180°, las baldosas activarán el sensor 2.
 
@@ -35,7 +39,8 @@ Diagrama de Flujo: Este diagrama representa gráficamente el flujo secuencial de
 
 GRAFCET desde Studio 5000: El GRAFCET generado desde el entorno de desarrollo Studio 5000 
 
-![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/e467dafc-a84e-4ea5-8b32-8c6bda985e01)
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/456984ba-c78a-435f-bf4e-0f7d7e109eb6)
+
 
 ## Celda robotica Grafcet
 El ciclo de operación de la celda robotizada comienza con la espera de una señal de "ready", indicando que el sistema está listo para recibir las cajas a paletizar. Una vez recibida esta señal, la celda robotizada espera la llegada de un AGV (Vehículo Guiado Automáticamente) que transporta las cajas hacia la estación de paletizado.
@@ -48,8 +53,5 @@ Diagrama de Flujo: Este diagrama representa gráficamente el flujo secuencial de
 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/aa4df83e-5c0d-4953-bc1b-9d93a2d1bc8e)
 
-GRAFCET desde Studio 5000: El GRAFCET generado desde el entorno de desarrollo Studio 5000 
-
-![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/456984ba-c78a-435f-bf4e-0f7d7e109eb6)
 
 
