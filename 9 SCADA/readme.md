@@ -24,6 +24,9 @@ En la estacion de control de calidad podemos supervisar estados como la activaci
 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/d9697f39-1cf8-41d6-8b21-5e5fb2fa1a57)
 
+En la celda robotica podemos supervisar estados como la activacion de la estacion, las cajas paletizadas, la cantidad de lotes peletizados y el total de baldosas paletizadas ademas de poder operar el tamaño del lote por pallet y por ultimo se cuenta con un indicador para la parada de emergencia si se activa la cortina laser.
+
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/b15bf646-88dc-4026-a26e-e6b2e5339897)
 
 
 Finalmente, podemos observar datos historizados y datos de alarma, que nos permite tener el estado de la planta.
