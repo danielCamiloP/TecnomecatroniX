@@ -29,9 +29,10 @@ En la celda robotica podemos supervisar estados como la activacion de la estacio
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/b15bf646-88dc-4026-a26e-e6b2e5339897)
 
 
-Finalmente, podemos observar datos historizados y datos de alarma, que nos permite tener el estado de la planta.
+Finalmente, podemos observar algunas alarmas,como la activacion de la prensa, la volteadora, la celda y su desactivacion, ademas de otras situaciones importantes como el prensado, el giro de la volteadora o  la ocurrencia de una parada de emergencia, lo cual nos permite tener conocimiento del estado de la planta.
 
-![alarmas](https://github.com/danielCamiloP/TecnomecatroniX/assets/49196698/e045a114-6122-4df4-9e5a-87b58cf34aa7)
+![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/e2a2fc1c-fca3-416f-984d-1a7a4dcae6c3)
+
 
 
 ![historicos](https://github.com/danielCamiloP/TecnomecatroniX/assets/49196698/d68425c7-f450-4ece-8733-ba05b859dffd)
