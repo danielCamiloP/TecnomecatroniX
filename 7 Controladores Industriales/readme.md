@@ -90,6 +90,8 @@ La misma situación del esmalte, engobe y secadora.
 
 ## Control de calidad
 
+El diagrama de flujo correspondiente se observa a continuación:
+
 ![QC_ladder](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/55eb2263-5e06-4c6e-b3ec-2c7583b85669)
 
 
@@ -97,7 +99,7 @@ En este caso se implementó el Ladder a modo Grafcet solicitado:
 
 ![laddGraf](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/2635d3f9-fe49-43af-9eab-5d0a61d79577)
 
-
+El proceso comienza contando baldosas con el sensor S_QC. Si la baldosa pasa el control de calidad (QC), se carga un '1' en la FIFO; si no pasa, se carga un '0' en la FIFO. Luego, se verifica si la FIFO está llena. Si está llena, significa que ya toda la tanda de baldosas pasó por la máquina de QC, entonces pasan a la siguiente etapa que es el kicker, que desplaza las baldosas que NO pasan el control de calidad, entonces se cuenta la baldosa en el kicker con un sensor, se extrae el dato de la cima de la FIFO y se lee. Si la baldosa no pasó el QC según el dato leído ('0'), se enciende el kicker para quitar la baldosa. Si la baldosa pasó el QC  ('1'), no se hace nada (la banda continúa sin que se encienda el kicker). Posteriormente, se verifica si la FIFO está vacía. Si la FIFO no está vacía, se verifica la siguiente baldosa con el siguiente dato en la cima de la FIFO volviendo a repetir este ciclo. Si la FIFO ya está vacía, el proceso regresa al inicio y cuenta nuevamente baldosas con S_QC.
 
 ## Celda robotica 
 
