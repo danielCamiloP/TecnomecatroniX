@@ -32,7 +32,9 @@ Finalmente, se reactivan los rodillos de la volteadora para permitir que las bal
 
 Diagrama de Flujo: Este diagrama representa gráficamente el flujo secuencial del programa de control de la volteadora. 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/efa7e8bb-0553-4647-b4af-b24f84410c5f)
+
 GRAFCET desde Studio 5000: El GRAFCET generado desde el entorno de desarrollo Studio 5000 
+
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/e467dafc-a84e-4ea5-8b32-8c6bda985e01)
 
 ## Celda robotica Grafcet
@@ -43,8 +45,11 @@ Una vez que el AGV y las cajas llegan a la posición adecuada, la celda robotiza
 Después de completar el paletizado, la celda robotizada activa el AGV para que continúe con su ruta asignada, quedando preparado para el siguiente ciclo. Mientras tanto, el sistema de control de la celda robotizada siempre verifica la presencia de una señal de parada de emergencia; si se detecta esta condición, se detiene inmediatamente toda la operación para garantizar la seguridad del entorno y del personal.
 
 Diagrama de Flujo: Este diagrama representa gráficamente el flujo secuencial del programa de control de la celda robotizada. 
+
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/aa4df83e-5c0d-4953-bc1b-9d93a2d1bc8e)
+
 GRAFCET desde Studio 5000: El GRAFCET generado desde el entorno de desarrollo Studio 5000 
+
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/82681128/456984ba-c78a-435f-bf4e-0f7d7e109eb6)
 
 
