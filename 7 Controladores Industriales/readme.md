@@ -68,11 +68,20 @@ Los procesos de esmalte y engobe son procesos continuos donde las máquinas siem
 ![Captura de pantalla 2024-06-24 094142](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/ce8bbe63-d819-42c9-87db-5f6c7921411d)
  engobe
 
-## Decoradora 
+## Decoradora y horno
 
-## Horno
+La misma situación del esmalte, engobe y secadora.
 
 ## Control de calidad
+
+![QC_ladder](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/55eb2263-5e06-4c6e-b3ec-2c7583b85669)
+
+
+En este caso se implementó el Ladder a modo Grafcet solicitado:
+
+![laddGraf](https://github.com/danielCamiloP/TecnomecatroniX/assets/52110700/2635d3f9-fe49-43af-9eab-5d0a61d79577)
+
+
 
 ## Celda robotica 
 
