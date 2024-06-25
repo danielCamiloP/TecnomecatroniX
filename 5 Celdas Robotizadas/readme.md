@@ -166,9 +166,9 @@ A continuación se puede observar el gantry con las medidas de seguridad inicial
 https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/c10ecb70-2565-4b6f-831e-829b46f93bb0
 
 
-## smart components
+## Smart components
 
-### banda transportadora
+### Banda transportadora
 Se empezo por realizar el smart component de la celda transportadora para esto se selecciono el modelo CAD de la banda transportadora que se muestra a continuación
 
 
