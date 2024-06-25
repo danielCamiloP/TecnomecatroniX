@@ -63,9 +63,9 @@ Luego de las consideraciones de seguridad, se obtiene el siguiente plano de plan
 
 
 
-## AGV
+## AMR
 
-Para los AGV se opto por los AMR F702 de ABB que se pueden ver en la imagen
+Para los AMR se opto por los AMR F702 de ABB que se pueden ver en la imagen
 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/74e5ea6f-0bf3-49ad-b862-ac5aff12336b)
 
