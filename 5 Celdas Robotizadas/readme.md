@@ -77,7 +77,7 @@ Para los AMR se opto por los AMR F702 de ABB que se pueden ver en la imagen
 Estos robots cuentan con proteccion de 360°. Ademassoprtan cargas de 2000 kg a una altura 0 y cargas de 1183 kg a una altura de 6m
 
 
-## Proceso de creacion del robot Gantry de XYZ
+## Proceso de creación del robot Gantry de XYZ
 
 Se planea utilizar en la celda un robot gantry IRB 8400/FP
 
