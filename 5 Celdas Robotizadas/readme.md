@@ -210,7 +210,7 @@ Como se puede ver el sensor esta conectado a una compuerta not para que cuando s
 
 
 
-### paletizado
+### Paletizado
 
 
 Primero se le dio a las estibas la propiedad fisica fixed para qe se mantengan en una posición y tengan collisiones con las cajas.
