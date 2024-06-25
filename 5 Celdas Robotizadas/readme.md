@@ -166,7 +166,7 @@ A continuación se puede observar el gantry con las medidas de seguridad inicial
 https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/c10ecb70-2565-4b6f-831e-829b46f93bb0
 
 
-## Smart components
+## Smart Components
 
 ### Banda transportadora
 
