@@ -169,6 +169,7 @@ https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/c10ecb70-2565-4
 ## Smart components
 
 ### Banda transportadora
+
 Se empezo por realizar el smart component de la celda transportadora para esto se selecciono el modelo CAD de la banda transportadora que se muestra a continuación
 
 
