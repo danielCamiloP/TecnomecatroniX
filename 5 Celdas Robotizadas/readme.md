@@ -57,7 +57,7 @@ Por ultimo se realiza la comparaci'on de las clasificaciones de riesgo, se puede
 
 
 ## Plano de planta
-luego de las consideraciones de seguridad, se obtiene el siguiente plano de planta.
+Luego de las consideraciones de seguridad, se obtiene el siguiente plano de planta.
 
 ![Celda robotica plano](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/3f03b6f2-6cc8-4ec6-8659-2c04832ef531)
 
