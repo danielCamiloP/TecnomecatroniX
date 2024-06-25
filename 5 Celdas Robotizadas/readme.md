@@ -34,7 +34,7 @@ Luego de esto se desarrollo la matriz de riesgos de riesgos comparando antes y d
 
 ![image](https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/3c26620c-d0d9-4b87-8b96-0fdc5bdf0467)
 
-### MitigaciÓn de riesgos
+### Mitigación de riesgos
 
 Se planean implementar las siguientes acciones para la mitigación de riesgos
 
