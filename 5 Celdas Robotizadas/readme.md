@@ -356,4 +356,3 @@ https://github.com/danielCamiloP/TecnomecatroniX/assets/62917958/63ebebda-f077-4
 
 
 
-a
